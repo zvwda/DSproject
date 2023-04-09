@@ -1,0 +1,4203 @@
+************************************* Invoked: ????? ????? 9 16:15:42 2023
+[0] Arguments: D:\zvwda\qt-unified-windows-x64-4.5.2-online.exe
+[22] Operations sanity check succeeded.
+[28] Using metadata cache from "C:/Users/HP/AppData/Local/cache\\qt-unified-windows-online"
+[28] Found 0 cached items.
+[29] Reading Qt Account settings from disk: "C:/Users/HP/AppData/Roaming/Qt/qtaccount.ini"
+[30] Warning: Qt Account settings file [C:\\Users\\HP\\AppData\\Roaming\\Qt\\qtaccount.ini] does not exist.
+[30] Warning: Could not find Qt Account.
+[30] QtAccount information:
+[30] Login completed: false
+[30] Email: ""
+[30] Total number of licenses: 0
+[30] Account type: 3
+[30] Language: en-US
+[350] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[3697] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[3697] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[5625] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[6379] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[7069] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[7775] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[7989] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8429] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[8974] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[9155] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[9819] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[10628] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[11293] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[11783] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12273] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[12897] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13244] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[13971] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[14543] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15260] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[15534] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[17253] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[23620] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[23621] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[23622] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[24652] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[24930] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[25431] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[25871] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[26351] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[26792] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[27143] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[27418] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[27694] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[27972] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[28277] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[28564] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[28830] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[29106] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[31355] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[31355] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[31355] Warning: No QtAccount credentials found. Please login via the maintenance tool of the SDK.
+[31984] Login completed to Qt Account: "zwalid327@gmail.com"
+[32556] Warning: No licenses found. Continuing open source installation.
+[32569] Saving licenses to file: "C:/Users/HP/AppData/Roaming/Qt/qtlicenses.ini"
+[32578] Saving Qt Account settings to file: "C:/Users/HP/AppData/Roaming/Qt/qtaccount.ini"
+[32791] "????? ?????? ??????? ?????? ????? ????? ???? ?? ???????!" [ "success" ]
+[49841] Fetching latest update information...
+[52474] Retrieving meta information from remote repository...
+[55420] Extracting meta information...
+[58601] Updating local cache with 82 new items...
+[68477] Loading component scripts...
+[119341] Selected components without dependencies:
+preview 
+qtdesignstudio 
+qt 
+qt.qt6.dev.src 
+qt.qt6.dev.addons 
+qt.qt6.dev.debug_info 
+qt.tools.maintenance 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components added as dependency for "qt.qt6.dev.doc":
+qt.tools 
+Components added as dependency for "qt.qt6.dev":
+qt.qt6.dev.doc 
+qt.qt6.dev.examples 
+Components that have resolved dependencies:
+qt.qt6.dev 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_msvc2019_x64 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.qt6.dev.win64_mingw":
+qt.tools.qtcreator 
+qt.tools.win64_mingw900 
+Components added as dependency for "qt.qt6.dev.wasm_multithread":
+qt.qt6.dev.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.dev.wasm_multithread 
+qt.qt6.dev.wasm_singlethread 
+Components added as dependency for "qt.qt6.dev.win64_msvc2019_arm64":
+qt.qt6.dev.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.dev.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.dev.android":
+qt.qt6.dev.android_arm64_v8a 
+qt.qt6.dev.android_armv7 
+qt.qt6.dev.android_x86 
+qt.qt6.dev.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.dev.android 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.doc.qtquick3d 
+qt.qt6.dev.examples.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qtshadertools":
+qt.qt6.dev.doc.qtshadertools 
+qt.qt6.dev.examples.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquicktimeline":
+qt.qt6.dev.doc.qtquicktimeline 
+qt.qt6.dev.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.dev.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qt5compat":
+qt.qt6.dev.doc.qt5compat 
+qt.qt6.dev.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.dev.qt5compat 
+Components added as dependency for "qt.qt6.dev.addons.qtactiveqt":
+qt.qt6.dev.doc.qtactiveqt 
+qt.qt6.dev.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.dev.addons.qt3d":
+qt.qt6.dev.doc.qt3d 
+qt.qt6.dev.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qt3d 
+Components added as dependency for "qt.qt6.dev.addons.qtcharts":
+qt.qt6.dev.doc.qtcharts 
+qt.qt6.dev.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtcharts 
+Components added as dependency for "qt.qt6.dev.addons.qtconnectivity":
+qt.qt6.dev.doc.qtbluetooth 
+qt.qt6.dev.doc.qtnfc 
+qt.qt6.dev.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.dev.addons.qtdatavis3d":
+qt.qt6.dev.doc.qtdatavis3d 
+qt.qt6.dev.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.doc.qthttpserver 
+qt.qt6.dev.examples.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtwebsockets":
+qt.qt6.dev.doc.qtwebsockets 
+qt.qt6.dev.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtimageformats":
+qt.qt6.dev.doc.qtimageformats 
+qt.qt6.dev.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtimageformats 
+Components added as dependency for "qt.qt6.dev.addons.qtinsighttracker":
+qt.qt6.dev.examples.qtinsighttracker 
+qt.qt6.dev.doc.qtinsighttracker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtinsighttracker 
+Components added as dependency for "qt.qt6.dev.addons.qtlanguageserver":
+qt.qt6.dev.doc.qtlanguageserver 
+qt.qt6.dev.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.dev.addons.qtlocation":
+qt.qt6.dev.doc.qtlocation 
+qt.qt6.dev.examples.qtlocation 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlocation 
+Components added as dependency for "qt.qt6.dev.addons.qtlottie":
+qt.qt6.dev.doc.qtlottie 
+qt.qt6.dev.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlottie 
+Components added as dependency for "qt.qt6.dev.addons.qtmultimedia":
+qt.qt6.dev.doc.qtmultimedia 
+qt.qt6.dev.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.dev.addons.qtnetworkauth":
+qt.qt6.dev.doc.qtnetworkauth 
+qt.qt6.dev.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.doc.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.doc.qtwebengine 
+qt.qt6.dev.examples.qtwebengine 
+Components added as dependency for "qt.qt6.dev.addons.qtwebchannel":
+qt.qt6.dev.doc.qtwebchannel 
+qt.qt6.dev.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtpositioning":
+qt.qt6.dev.doc.qtpositioning 
+qt.qt6.dev.examples.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtgrpc":
+qt.qt6.dev.doc.qtgrpc 
+qt.qt6.dev.examples.qtgrpc 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtgrpc 
+Components added as dependency for "qt.qt6.dev.addons.qtquickeffectmaker":
+qt.qt6.dev.doc.qtquickeffectmaker 
+qt.qt6.dev.examples.qtquickeffectmaker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquickeffectmaker 
+Components added as dependency for "qt.qt6.dev.addons.qtremoteobjects":
+qt.qt6.dev.doc.qtremoteobjects 
+qt.qt6.dev.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.dev.addons.qtsensors":
+qt.qt6.dev.doc.qtsensors 
+qt.qt6.dev.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtsensors 
+Components added as dependency for "qt.qt6.dev.addons.qtserialbus":
+qt.qt6.dev.doc.qtserialbus 
+qt.qt6.dev.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialbus 
+Components added as dependency for "qt.qt6.dev.addons.qtserialport":
+qt.qt6.dev.doc.qtserialport 
+qt.qt6.dev.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialport 
+Components added as dependency for "qt.qt6.dev.addons.qtspeech":
+qt.qt6.dev.doc.qtspeech 
+qt.qt6.dev.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtspeech 
+Components added as dependency for "qt.qt6.dev.addons.qtscxml":
+qt.qt6.dev.doc.qtscxml 
+qt.qt6.dev.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtscxml 
+Components added as dependency for "qt.qt6.dev.addons.qtvirtualkeyboard":
+qt.qt6.dev.doc.qtvirtualkeyboard 
+qt.qt6.dev.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.dev.addons.qtwebview":
+qt.qt6.dev.doc.qtwebview 
+qt.qt6.dev.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtwebview 
+Components added as dependency for "qt.qt6.dev.addons.qtquick3dphysics":
+qt.qt6.dev.doc.qtquick3dphysics 
+qt.qt6.dev.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquick3dphysics 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.qt6.dev.src.qtinsighttracker 
+qt.tools.qtcreator_gui.telemetry 
+qt.qt6.dev.addons.qtserialport.android_x86 
+qt.qt6.dev.qtquick3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebchannel.wasm_multithread 
+qt.qt6.dev.debug_info.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_x86_64 
+qt.qt6.dev.addons.qtspeech.android_x86_64 
+qt.qt6.dev.addons.qtlanguageserver.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_x86 
+qt.qt6.dev.addons.qtwebchannel.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86 
+qt.qt6.dev.qt5compat.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebchannel.android_x86_64 
+qt.qt6.dev.qtquick3d.win64_mingw 
+qt.qt6.dev.addons.qtwebsockets.android_x86 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.wasm_singlethread 
+qt.qt6.dev.qtquick3d.android_armv7 
+qt.qt6.dev.addons.qtspeech.wasm_multithread 
+qt.qt6.dev.addons.qtsensors.android_arm64_v8a 
+qt.qt6.dev.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_x86 
+qt.qt6.dev.addons.qt3d.android_x86 
+qt.qt6.dev.addons.qtinsighttracker.wasm_singlethread 
+qt.qt6.dev.addons.qtwebview.win64_mingw 
+qt.qt6.dev.addons.qtactiveqt.win64_mingw 
+qt.qt6.dev.debug_info.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_multithread 
+qt.qt6.dev.addons.qt3d.win64_mingw 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.android_arm64_v8a 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_arm64_v8a 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.dev.addons.qtinsighttracker.win64_mingw 
+qt.qt6.dev.qtshadertools.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.win64_mingw 
+qt.qt6.dev.addons.qtinsighttracker.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_arm64_v8a 
+qt.qt6.dev.addons.qtinsighttracker.android_x86 
+qt.qt6.dev.addons.qtserialport.android_armv7 
+qt.qt6.dev.addons.qtscxml.android_x86 
+qt.qt6.dev.addons.qtlottie.wasm_singlethread 
+qt.qt6.dev.addons.qtimageformats.android_x86 
+qt.qt6.dev.addons.qtserialbus.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.dev.addons.qtinsighttracker.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.android_x86_64 
+qt.qt6.dev.addons.qtlocation.win64_mingw 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86_64 
+qt.qt6.dev.addons.qtgrpc.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.android_x86 
+qt.qt6.dev.addons.qtlottie.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86_64 
+qt.qt6.dev.qtquicktimeline.android_x86_64 
+qt.qt6.dev.qtshadertools.android_arm64_v8a 
+qt.qt6.dev.qtquick3d.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_multithread 
+qt.qt6.dev.addons.qtimageformats.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.dev.addons.qtwebsockets.android_x86_64 
+qt.qt6.dev.qtquicktimeline.wasm_singlethread 
+qt.qt6.dev.addons.qtscxml.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_64 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.wasm_singlethread 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.dev.qt5compat.android_x86_64 
+qt.qt6.dev.addons.qtdatavis3d.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.dev.addons.qthttpserver.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86 
+qt.qt6.dev.addons.qtpositioning.android_x86_64 
+qt.qt6.dev.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86_64 
+qt.qt6.dev.addons.qtscxml.android_x86_64 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_arm64_v8a 
+qt.qt6.dev.addons.qtpositioning.android_x86 
+qt.qt6.dev.addons.qthttpserver.win64_mingw 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.win64_mingw 
+qt.qt6.dev.addons.qtwebview.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebview.android_x86_64 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_x86 
+qt.qt6.dev.addons.qthttpserver.wasm_multithread 
+qt.qt6.dev.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtserialport.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebsockets.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86_64 
+qt.qt6.dev.addons.qtspeech.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_mingw 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.android_x86_64 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.dev.addons.qtserialbus.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_multithread 
+qt.qt6.dev.addons.qtwebsockets.win64_mingw 
+qt.qt6.dev.qt5compat.wasm_multithread 
+qt.qt6.dev.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.android_arm64_v8a 
+qt.qt6.dev.qt5compat.wasm_singlethread 
+qt.qt6.dev.addons.qtinsighttracker.wasm_multithread 
+qt.qt6.dev.addons.qtwebchannel.wasm_singlethread 
+qt.qt6.dev.addons.qtspeech.win64_mingw 
+qt.qt6.dev.addons.qtdatavis3d.android_x86 
+qt.qt6.dev.addons.qtlocation.android_x86_64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.wasm_singlethread 
+qt.qt6.dev.qtshadertools.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_arm64_v8a 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.android_x86 
+qt.qt6.dev.qtquicktimeline.wasm_multithread 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qthttpserver.android_x86_64 
+qt.qt6.dev.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.wasm_singlethread 
+qt.qt6.dev.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.dev.addons.qtsensors.android_x86 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.dev.addons.qtscxml.android_armv7 
+qt.qt6.dev.addons.qtlottie.android_x86_64 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.android_x86 
+qt.qt6.dev.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86 
+qt.qt6.dev.qtquick3d.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.wasm_multithread 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.android_x86_64 
+qt.qt6.dev.qt5compat.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialport.android_x86_64 
+qt.qt6.dev.addons.qtlocation.android_x86 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_x86_64 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_armv7 
+qt.qt6.dev.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86 
+qt.qt6.dev.addons.qtcharts.wasm_multithread 
+qt.qt6.dev.addons.qtlottie.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.android_armv7 
+qt.qt6.dev.debug_info.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_mingw 
+qt.qt6.dev.qtquicktimeline.android_x86 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_armv7 
+qt.qt6.dev.addons.qtsensors.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtcharts.win64_mingw 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.dev.addons.qtremoteobjects.android_x86_64 
+qt.qt6.dev.addons.qtwebchannel.win64_mingw 
+qt.qt6.dev.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.android_armv7 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.dev.addons.qtconnectivity.android_armv7 
+qt.qt6.dev.addons.qtscxml.win64_mingw 
+qt.qt6.dev.addons.qtsensors.win64_mingw 
+qt.qt6.dev.addons.qtscxml.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.android_armv7 
+qt.qt6.dev.addons.qtserialport.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.android_x86_64 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.wasm_singlethread 
+qt.qt6.dev.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebview.android_x86 
+qt.qt6.dev.addons.qtscxml.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.android_armv7 
+qt.qt6.dev.addons.qthttpserver.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_singlethread 
+qt.qt6.dev.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_armv7 
+qt.qt6.dev.addons.qtspeech.android_armv7 
+qt.qt6.dev.addons.qtimageformats.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.dev.addons.qt3d.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.android_arm64_v8a
+[119351] Installation space required: "37.14 GB" Temporary space required: "6.87 GB" Local repository size: "0.00 bytes"
+[119353] Cache and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "6.71 GB"
+[362280] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[371186] Selected components without dependencies:
+preview 
+qtdesignstudio 
+qt 
+qt.qt6.dev.src 
+qt.qt6.dev.addons 
+qt.qt6.dev.debug_info 
+qt.tools.maintenance 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components added as dependency for "qt.qt6.dev.doc":
+qt.tools 
+Components added as dependency for "qt.qt6.dev":
+qt.qt6.dev.doc 
+qt.qt6.dev.examples 
+Components that have resolved dependencies:
+qt.qt6.dev 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_msvc2019_x64 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.qt6.dev.win64_mingw":
+qt.tools.qtcreator 
+qt.tools.win64_mingw900 
+Components added as dependency for "qt.qt6.dev.wasm_multithread":
+qt.qt6.dev.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.dev.wasm_multithread 
+qt.qt6.dev.wasm_singlethread 
+Components added as dependency for "qt.qt6.dev.win64_msvc2019_arm64":
+qt.qt6.dev.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.dev.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.dev.android":
+qt.qt6.dev.android_arm64_v8a 
+qt.qt6.dev.android_armv7 
+qt.qt6.dev.android_x86 
+qt.qt6.dev.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.dev.android 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.doc.qtquick3d 
+qt.qt6.dev.examples.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qtshadertools":
+qt.qt6.dev.doc.qtshadertools 
+qt.qt6.dev.examples.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquicktimeline":
+qt.qt6.dev.doc.qtquicktimeline 
+qt.qt6.dev.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.dev.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qt5compat":
+qt.qt6.dev.doc.qt5compat 
+qt.qt6.dev.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.dev.qt5compat 
+Components added as dependency for "qt.qt6.dev.addons.qtactiveqt":
+qt.qt6.dev.doc.qtactiveqt 
+qt.qt6.dev.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.dev.addons.qt3d":
+qt.qt6.dev.doc.qt3d 
+qt.qt6.dev.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qt3d 
+Components added as dependency for "qt.qt6.dev.addons.qtcharts":
+qt.qt6.dev.doc.qtcharts 
+qt.qt6.dev.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtcharts 
+Components added as dependency for "qt.qt6.dev.addons.qtconnectivity":
+qt.qt6.dev.doc.qtbluetooth 
+qt.qt6.dev.doc.qtnfc 
+qt.qt6.dev.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.dev.addons.qtdatavis3d":
+qt.qt6.dev.doc.qtdatavis3d 
+qt.qt6.dev.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.doc.qthttpserver 
+qt.qt6.dev.examples.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtwebsockets":
+qt.qt6.dev.doc.qtwebsockets 
+qt.qt6.dev.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtimageformats":
+qt.qt6.dev.doc.qtimageformats 
+qt.qt6.dev.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtimageformats 
+Components added as dependency for "qt.qt6.dev.addons.qtinsighttracker":
+qt.qt6.dev.examples.qtinsighttracker 
+qt.qt6.dev.doc.qtinsighttracker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtinsighttracker 
+Components added as dependency for "qt.qt6.dev.addons.qtlanguageserver":
+qt.qt6.dev.doc.qtlanguageserver 
+qt.qt6.dev.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.dev.addons.qtlocation":
+qt.qt6.dev.doc.qtlocation 
+qt.qt6.dev.examples.qtlocation 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlocation 
+Components added as dependency for "qt.qt6.dev.addons.qtlottie":
+qt.qt6.dev.doc.qtlottie 
+qt.qt6.dev.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlottie 
+Components added as dependency for "qt.qt6.dev.addons.qtmultimedia":
+qt.qt6.dev.doc.qtmultimedia 
+qt.qt6.dev.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.dev.addons.qtnetworkauth":
+qt.qt6.dev.doc.qtnetworkauth 
+qt.qt6.dev.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.doc.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.doc.qtwebengine 
+qt.qt6.dev.examples.qtwebengine 
+Components added as dependency for "qt.qt6.dev.addons.qtwebchannel":
+qt.qt6.dev.doc.qtwebchannel 
+qt.qt6.dev.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtpositioning":
+qt.qt6.dev.doc.qtpositioning 
+qt.qt6.dev.examples.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtgrpc":
+qt.qt6.dev.doc.qtgrpc 
+qt.qt6.dev.examples.qtgrpc 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtgrpc 
+Components added as dependency for "qt.qt6.dev.addons.qtquickeffectmaker":
+qt.qt6.dev.doc.qtquickeffectmaker 
+qt.qt6.dev.examples.qtquickeffectmaker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquickeffectmaker 
+Components added as dependency for "qt.qt6.dev.addons.qtremoteobjects":
+qt.qt6.dev.doc.qtremoteobjects 
+qt.qt6.dev.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.dev.addons.qtsensors":
+qt.qt6.dev.doc.qtsensors 
+qt.qt6.dev.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtsensors 
+Components added as dependency for "qt.qt6.dev.addons.qtserialbus":
+qt.qt6.dev.doc.qtserialbus 
+qt.qt6.dev.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialbus 
+Components added as dependency for "qt.qt6.dev.addons.qtserialport":
+qt.qt6.dev.doc.qtserialport 
+qt.qt6.dev.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialport 
+Components added as dependency for "qt.qt6.dev.addons.qtspeech":
+qt.qt6.dev.doc.qtspeech 
+qt.qt6.dev.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtspeech 
+Components added as dependency for "qt.qt6.dev.addons.qtscxml":
+qt.qt6.dev.doc.qtscxml 
+qt.qt6.dev.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtscxml 
+Components added as dependency for "qt.qt6.dev.addons.qtvirtualkeyboard":
+qt.qt6.dev.doc.qtvirtualkeyboard 
+qt.qt6.dev.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.dev.addons.qtwebview":
+qt.qt6.dev.doc.qtwebview 
+qt.qt6.dev.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtwebview 
+Components added as dependency for "qt.qt6.dev.addons.qtquick3dphysics":
+qt.qt6.dev.doc.qtquick3dphysics 
+qt.qt6.dev.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquick3dphysics 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.qt6.dev.src.qtinsighttracker 
+qt.tools.qtcreator_gui.telemetry 
+qt.qt6.dev.addons.qtserialport.android_x86 
+qt.qt6.dev.qtquick3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebchannel.wasm_multithread 
+qt.qt6.dev.debug_info.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_x86_64 
+qt.qt6.dev.addons.qtspeech.android_x86_64 
+qt.qt6.dev.addons.qtlanguageserver.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_x86 
+qt.qt6.dev.addons.qtwebchannel.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86 
+qt.qt6.dev.qt5compat.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebchannel.android_x86_64 
+qt.qt6.dev.qtquick3d.win64_mingw 
+qt.qt6.dev.addons.qtwebsockets.android_x86 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.wasm_singlethread 
+qt.qt6.dev.qtquick3d.android_armv7 
+qt.qt6.dev.addons.qtspeech.wasm_multithread 
+qt.qt6.dev.addons.qtsensors.android_arm64_v8a 
+qt.qt6.dev.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_x86 
+qt.qt6.dev.addons.qt3d.android_x86 
+qt.qt6.dev.addons.qtinsighttracker.wasm_singlethread 
+qt.qt6.dev.addons.qtwebview.win64_mingw 
+qt.qt6.dev.addons.qtactiveqt.win64_mingw 
+qt.qt6.dev.debug_info.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_multithread 
+qt.qt6.dev.addons.qt3d.win64_mingw 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.android_arm64_v8a 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_arm64_v8a 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.dev.addons.qtinsighttracker.win64_mingw 
+qt.qt6.dev.qtshadertools.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.win64_mingw 
+qt.qt6.dev.addons.qtinsighttracker.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_arm64_v8a 
+qt.qt6.dev.addons.qtinsighttracker.android_x86 
+qt.qt6.dev.addons.qtserialport.android_armv7 
+qt.qt6.dev.addons.qtscxml.android_x86 
+qt.qt6.dev.addons.qtlottie.wasm_singlethread 
+qt.qt6.dev.addons.qtimageformats.android_x86 
+qt.qt6.dev.addons.qtserialbus.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.dev.addons.qtinsighttracker.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.android_x86_64 
+qt.qt6.dev.addons.qtlocation.win64_mingw 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86_64 
+qt.qt6.dev.addons.qtgrpc.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.android_x86 
+qt.qt6.dev.addons.qtlottie.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86_64 
+qt.qt6.dev.qtquicktimeline.android_x86_64 
+qt.qt6.dev.qtshadertools.android_arm64_v8a 
+qt.qt6.dev.qtquick3d.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_multithread 
+qt.qt6.dev.addons.qtimageformats.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.dev.addons.qtwebsockets.android_x86_64 
+qt.qt6.dev.qtquicktimeline.wasm_singlethread 
+qt.qt6.dev.addons.qtscxml.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_64 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.wasm_singlethread 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.dev.qt5compat.android_x86_64 
+qt.qt6.dev.addons.qtdatavis3d.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.dev.addons.qthttpserver.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86 
+qt.qt6.dev.addons.qtpositioning.android_x86_64 
+qt.qt6.dev.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86_64 
+qt.qt6.dev.addons.qtscxml.android_x86_64 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_arm64_v8a 
+qt.qt6.dev.addons.qtpositioning.android_x86 
+qt.qt6.dev.addons.qthttpserver.win64_mingw 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.win64_mingw 
+qt.qt6.dev.addons.qtwebview.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebview.android_x86_64 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_x86 
+qt.qt6.dev.addons.qthttpserver.wasm_multithread 
+qt.qt6.dev.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtserialport.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebsockets.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86_64 
+qt.qt6.dev.addons.qtspeech.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_mingw 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.android_x86_64 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.dev.addons.qtserialbus.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_multithread 
+qt.qt6.dev.addons.qtwebsockets.win64_mingw 
+qt.qt6.dev.qt5compat.wasm_multithread 
+qt.qt6.dev.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.android_arm64_v8a 
+qt.qt6.dev.qt5compat.wasm_singlethread 
+qt.qt6.dev.addons.qtinsighttracker.wasm_multithread 
+qt.qt6.dev.addons.qtwebchannel.wasm_singlethread 
+qt.qt6.dev.addons.qtspeech.win64_mingw 
+qt.qt6.dev.addons.qtdatavis3d.android_x86 
+qt.qt6.dev.addons.qtlocation.android_x86_64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.wasm_singlethread 
+qt.qt6.dev.qtshadertools.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_arm64_v8a 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.android_x86 
+qt.qt6.dev.qtquicktimeline.wasm_multithread 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qthttpserver.android_x86_64 
+qt.qt6.dev.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.wasm_singlethread 
+qt.qt6.dev.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.dev.addons.qtsensors.android_x86 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.dev.addons.qtscxml.android_armv7 
+qt.qt6.dev.addons.qtlottie.android_x86_64 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.android_x86 
+qt.qt6.dev.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86 
+qt.qt6.dev.qtquick3d.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.wasm_multithread 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.android_x86_64 
+qt.qt6.dev.qt5compat.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialport.android_x86_64 
+qt.qt6.dev.addons.qtlocation.android_x86 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_x86_64 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_armv7 
+qt.qt6.dev.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86 
+qt.qt6.dev.addons.qtcharts.wasm_multithread 
+qt.qt6.dev.addons.qtlottie.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.android_armv7 
+qt.qt6.dev.debug_info.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_mingw 
+qt.qt6.dev.qtquicktimeline.android_x86 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_armv7 
+qt.qt6.dev.addons.qtsensors.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtcharts.win64_mingw 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.dev.addons.qtremoteobjects.android_x86_64 
+qt.qt6.dev.addons.qtwebchannel.win64_mingw 
+qt.qt6.dev.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.android_armv7 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.dev.addons.qtconnectivity.android_armv7 
+qt.qt6.dev.addons.qtscxml.win64_mingw 
+qt.qt6.dev.addons.qtsensors.win64_mingw 
+qt.qt6.dev.addons.qtscxml.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.android_armv7 
+qt.qt6.dev.addons.qtserialport.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.android_x86_64 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.wasm_singlethread 
+qt.qt6.dev.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebview.android_x86 
+qt.qt6.dev.addons.qtscxml.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.android_armv7 
+qt.qt6.dev.addons.qthttpserver.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_singlethread 
+qt.qt6.dev.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_armv7 
+qt.qt6.dev.addons.qtspeech.android_armv7 
+qt.qt6.dev.addons.qtimageformats.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.dev.addons.qt3d.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.android_arm64_v8a
+[371192] Installation space required: "37.14 GB" Temporary space required: "6.87 GB" Local repository size: "0.00 bytes"
+[371194] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "6.71 GB" Install volume mount point: "D:\\" Free space available: "47.15 GB"
+[419033] Selected components without dependencies:
+preview 
+qtdesignstudio 
+qt 
+qt.qt6.dev.src 
+qt.qt6.dev.addons 
+qt.qt6.dev.debug_info 
+qt.tools.maintenance 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components added as dependency for "qt.qt6.dev.doc":
+qt.tools 
+Components added as dependency for "qt.qt6.dev":
+qt.qt6.dev.doc 
+qt.qt6.dev.examples 
+Components that have resolved dependencies:
+qt.qt6.dev 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_msvc2019_x64 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.qt6.dev.win64_mingw":
+qt.tools.qtcreator 
+qt.tools.win64_mingw900 
+Components added as dependency for "qt.qt6.dev.wasm_multithread":
+qt.qt6.dev.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.dev.wasm_multithread 
+qt.qt6.dev.wasm_singlethread 
+Components added as dependency for "qt.qt6.dev.win64_msvc2019_arm64":
+qt.qt6.dev.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.dev.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.dev.android":
+qt.qt6.dev.android_arm64_v8a 
+qt.qt6.dev.android_armv7 
+qt.qt6.dev.android_x86 
+qt.qt6.dev.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.dev.android 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.doc.qtquick3d 
+qt.qt6.dev.examples.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qtshadertools":
+qt.qt6.dev.doc.qtshadertools 
+qt.qt6.dev.examples.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquicktimeline":
+qt.qt6.dev.doc.qtquicktimeline 
+qt.qt6.dev.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.dev.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qt5compat":
+qt.qt6.dev.doc.qt5compat 
+qt.qt6.dev.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.dev.qt5compat 
+Components added as dependency for "qt.qt6.dev.addons.qtactiveqt":
+qt.qt6.dev.doc.qtactiveqt 
+qt.qt6.dev.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.dev.addons.qt3d":
+qt.qt6.dev.doc.qt3d 
+qt.qt6.dev.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qt3d 
+Components added as dependency for "qt.qt6.dev.addons.qtcharts":
+qt.qt6.dev.doc.qtcharts 
+qt.qt6.dev.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtcharts 
+Components added as dependency for "qt.qt6.dev.addons.qtconnectivity":
+qt.qt6.dev.doc.qtbluetooth 
+qt.qt6.dev.doc.qtnfc 
+qt.qt6.dev.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.dev.addons.qtdatavis3d":
+qt.qt6.dev.doc.qtdatavis3d 
+qt.qt6.dev.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.doc.qthttpserver 
+qt.qt6.dev.examples.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtwebsockets":
+qt.qt6.dev.doc.qtwebsockets 
+qt.qt6.dev.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtimageformats":
+qt.qt6.dev.doc.qtimageformats 
+qt.qt6.dev.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtimageformats 
+Components added as dependency for "qt.qt6.dev.addons.qtinsighttracker":
+qt.qt6.dev.examples.qtinsighttracker 
+qt.qt6.dev.doc.qtinsighttracker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtinsighttracker 
+Components added as dependency for "qt.qt6.dev.addons.qtlanguageserver":
+qt.qt6.dev.doc.qtlanguageserver 
+qt.qt6.dev.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.dev.addons.qtlocation":
+qt.qt6.dev.doc.qtlocation 
+qt.qt6.dev.examples.qtlocation 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlocation 
+Components added as dependency for "qt.qt6.dev.addons.qtlottie":
+qt.qt6.dev.doc.qtlottie 
+qt.qt6.dev.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlottie 
+Components added as dependency for "qt.qt6.dev.addons.qtmultimedia":
+qt.qt6.dev.doc.qtmultimedia 
+qt.qt6.dev.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.dev.addons.qtnetworkauth":
+qt.qt6.dev.doc.qtnetworkauth 
+qt.qt6.dev.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.doc.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.doc.qtwebengine 
+qt.qt6.dev.examples.qtwebengine 
+Components added as dependency for "qt.qt6.dev.addons.qtwebchannel":
+qt.qt6.dev.doc.qtwebchannel 
+qt.qt6.dev.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtpositioning":
+qt.qt6.dev.doc.qtpositioning 
+qt.qt6.dev.examples.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtgrpc":
+qt.qt6.dev.doc.qtgrpc 
+qt.qt6.dev.examples.qtgrpc 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtgrpc 
+Components added as dependency for "qt.qt6.dev.addons.qtquickeffectmaker":
+qt.qt6.dev.doc.qtquickeffectmaker 
+qt.qt6.dev.examples.qtquickeffectmaker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquickeffectmaker 
+Components added as dependency for "qt.qt6.dev.addons.qtremoteobjects":
+qt.qt6.dev.doc.qtremoteobjects 
+qt.qt6.dev.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.dev.addons.qtsensors":
+qt.qt6.dev.doc.qtsensors 
+qt.qt6.dev.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtsensors 
+Components added as dependency for "qt.qt6.dev.addons.qtserialbus":
+qt.qt6.dev.doc.qtserialbus 
+qt.qt6.dev.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialbus 
+Components added as dependency for "qt.qt6.dev.addons.qtserialport":
+qt.qt6.dev.doc.qtserialport 
+qt.qt6.dev.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialport 
+Components added as dependency for "qt.qt6.dev.addons.qtspeech":
+qt.qt6.dev.doc.qtspeech 
+qt.qt6.dev.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtspeech 
+Components added as dependency for "qt.qt6.dev.addons.qtscxml":
+qt.qt6.dev.doc.qtscxml 
+qt.qt6.dev.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtscxml 
+Components added as dependency for "qt.qt6.dev.addons.qtvirtualkeyboard":
+qt.qt6.dev.doc.qtvirtualkeyboard 
+qt.qt6.dev.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.dev.addons.qtwebview":
+qt.qt6.dev.doc.qtwebview 
+qt.qt6.dev.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtwebview 
+Components added as dependency for "qt.qt6.dev.addons.qtquick3dphysics":
+qt.qt6.dev.doc.qtquick3dphysics 
+qt.qt6.dev.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquick3dphysics 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.qt6.dev.src.qtinsighttracker 
+qt.tools.qtcreator_gui.telemetry 
+qt.qt6.dev.addons.qtserialport.android_x86 
+qt.qt6.dev.qtquick3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebchannel.wasm_multithread 
+qt.qt6.dev.debug_info.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_x86_64 
+qt.qt6.dev.addons.qtspeech.android_x86_64 
+qt.qt6.dev.addons.qtlanguageserver.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_x86 
+qt.qt6.dev.addons.qtwebchannel.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86 
+qt.qt6.dev.qt5compat.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebchannel.android_x86_64 
+qt.qt6.dev.qtquick3d.win64_mingw 
+qt.qt6.dev.addons.qtwebsockets.android_x86 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.wasm_singlethread 
+qt.qt6.dev.qtquick3d.android_armv7 
+qt.qt6.dev.addons.qtspeech.wasm_multithread 
+qt.qt6.dev.addons.qtsensors.android_arm64_v8a 
+qt.qt6.dev.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_x86 
+qt.qt6.dev.addons.qt3d.android_x86 
+qt.qt6.dev.addons.qtinsighttracker.wasm_singlethread 
+qt.qt6.dev.addons.qtwebview.win64_mingw 
+qt.qt6.dev.addons.qtactiveqt.win64_mingw 
+qt.qt6.dev.debug_info.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_multithread 
+qt.qt6.dev.addons.qt3d.win64_mingw 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.android_arm64_v8a 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_arm64_v8a 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.dev.addons.qtinsighttracker.win64_mingw 
+qt.qt6.dev.qtshadertools.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.win64_mingw 
+qt.qt6.dev.addons.qtinsighttracker.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_arm64_v8a 
+qt.qt6.dev.addons.qtinsighttracker.android_x86 
+qt.qt6.dev.addons.qtserialport.android_armv7 
+qt.qt6.dev.addons.qtscxml.android_x86 
+qt.qt6.dev.addons.qtlottie.wasm_singlethread 
+qt.qt6.dev.addons.qtimageformats.android_x86 
+qt.qt6.dev.addons.qtserialbus.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.dev.addons.qtinsighttracker.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.android_x86_64 
+qt.qt6.dev.addons.qtlocation.win64_mingw 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86_64 
+qt.qt6.dev.addons.qtgrpc.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.android_x86 
+qt.qt6.dev.addons.qtlottie.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86_64 
+qt.qt6.dev.qtquicktimeline.android_x86_64 
+qt.qt6.dev.qtshadertools.android_arm64_v8a 
+qt.qt6.dev.qtquick3d.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_multithread 
+qt.qt6.dev.addons.qtimageformats.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.dev.addons.qtwebsockets.android_x86_64 
+qt.qt6.dev.qtquicktimeline.wasm_singlethread 
+qt.qt6.dev.addons.qtscxml.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_64 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.wasm_singlethread 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.dev.qt5compat.android_x86_64 
+qt.qt6.dev.addons.qtdatavis3d.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.dev.addons.qthttpserver.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86 
+qt.qt6.dev.addons.qtpositioning.android_x86_64 
+qt.qt6.dev.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86_64 
+qt.qt6.dev.addons.qtscxml.android_x86_64 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_arm64_v8a 
+qt.qt6.dev.addons.qtpositioning.android_x86 
+qt.qt6.dev.addons.qthttpserver.win64_mingw 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.win64_mingw 
+qt.qt6.dev.addons.qtwebview.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebview.android_x86_64 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_x86 
+qt.qt6.dev.addons.qthttpserver.wasm_multithread 
+qt.qt6.dev.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtserialport.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebsockets.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86_64 
+qt.qt6.dev.addons.qtspeech.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_mingw 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.android_x86_64 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.dev.addons.qtserialbus.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_multithread 
+qt.qt6.dev.addons.qtwebsockets.win64_mingw 
+qt.qt6.dev.qt5compat.wasm_multithread 
+qt.qt6.dev.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.android_arm64_v8a 
+qt.qt6.dev.qt5compat.wasm_singlethread 
+qt.qt6.dev.addons.qtinsighttracker.wasm_multithread 
+qt.qt6.dev.addons.qtwebchannel.wasm_singlethread 
+qt.qt6.dev.addons.qtspeech.win64_mingw 
+qt.qt6.dev.addons.qtdatavis3d.android_x86 
+qt.qt6.dev.addons.qtlocation.android_x86_64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.wasm_singlethread 
+qt.qt6.dev.qtshadertools.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_arm64_v8a 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.android_x86 
+qt.qt6.dev.qtquicktimeline.wasm_multithread 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qthttpserver.android_x86_64 
+qt.qt6.dev.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.wasm_singlethread 
+qt.qt6.dev.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.dev.addons.qtsensors.android_x86 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.dev.addons.qtscxml.android_armv7 
+qt.qt6.dev.addons.qtlottie.android_x86_64 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.android_x86 
+qt.qt6.dev.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86 
+qt.qt6.dev.qtquick3d.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.wasm_multithread 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.android_x86_64 
+qt.qt6.dev.qt5compat.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialport.android_x86_64 
+qt.qt6.dev.addons.qtlocation.android_x86 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_x86_64 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_armv7 
+qt.qt6.dev.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86 
+qt.qt6.dev.addons.qtcharts.wasm_multithread 
+qt.qt6.dev.addons.qtlottie.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.android_armv7 
+qt.qt6.dev.debug_info.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_mingw 
+qt.qt6.dev.qtquicktimeline.android_x86 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_armv7 
+qt.qt6.dev.addons.qtsensors.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtcharts.win64_mingw 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.dev.addons.qtremoteobjects.android_x86_64 
+qt.qt6.dev.addons.qtwebchannel.win64_mingw 
+qt.qt6.dev.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.android_armv7 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.dev.addons.qtconnectivity.android_armv7 
+qt.qt6.dev.addons.qtscxml.win64_mingw 
+qt.qt6.dev.addons.qtsensors.win64_mingw 
+qt.qt6.dev.addons.qtscxml.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.android_armv7 
+qt.qt6.dev.addons.qtserialport.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.android_x86_64 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.wasm_singlethread 
+qt.qt6.dev.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebview.android_x86 
+qt.qt6.dev.addons.qtscxml.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.android_armv7 
+qt.qt6.dev.addons.qthttpserver.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_singlethread 
+qt.qt6.dev.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_armv7 
+qt.qt6.dev.addons.qtspeech.android_armv7 
+qt.qt6.dev.addons.qtimageformats.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.dev.addons.qt3d.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.android_arm64_v8a
+[419040] Installation space required: "37.14 GB" Temporary space required: "6.87 GB" Local repository size: "0.00 bytes"
+[419042] Cache and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "6.71 GB"
+[505912] cancelInstallation : Qt Question : Do you want to quit the installer application? Yes|No
+[740056] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[811767] Selected components without dependencies:
+preview 
+qtdesignstudio 
+qt 
+qt.qt6.dev.src 
+qt.qt6.dev.addons 
+qt.qt6.dev.debug_info 
+qt.tools.maintenance 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components added as dependency for "qt.qt6.dev.doc":
+qt.tools 
+Components added as dependency for "qt.qt6.dev":
+qt.qt6.dev.doc 
+qt.qt6.dev.examples 
+Components that have resolved dependencies:
+qt.qt6.dev 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_msvc2019_x64 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.qt6.dev.win64_mingw":
+qt.tools.qtcreator 
+qt.tools.win64_mingw900 
+Components added as dependency for "qt.qt6.dev.wasm_multithread":
+qt.qt6.dev.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.dev.wasm_multithread 
+qt.qt6.dev.wasm_singlethread 
+Components added as dependency for "qt.qt6.dev.win64_msvc2019_arm64":
+qt.qt6.dev.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.dev.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.dev.android":
+qt.qt6.dev.android_arm64_v8a 
+qt.qt6.dev.android_armv7 
+qt.qt6.dev.android_x86 
+qt.qt6.dev.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.dev.android 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.doc.qtquick3d 
+qt.qt6.dev.examples.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qtshadertools":
+qt.qt6.dev.doc.qtshadertools 
+qt.qt6.dev.examples.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquicktimeline":
+qt.qt6.dev.doc.qtquicktimeline 
+qt.qt6.dev.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.dev.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qt5compat":
+qt.qt6.dev.doc.qt5compat 
+qt.qt6.dev.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.dev.qt5compat 
+Components added as dependency for "qt.qt6.dev.addons.qtactiveqt":
+qt.qt6.dev.doc.qtactiveqt 
+qt.qt6.dev.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.dev.addons.qt3d":
+qt.qt6.dev.doc.qt3d 
+qt.qt6.dev.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qt3d 
+Components added as dependency for "qt.qt6.dev.addons.qtcharts":
+qt.qt6.dev.doc.qtcharts 
+qt.qt6.dev.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtcharts 
+Components added as dependency for "qt.qt6.dev.addons.qtconnectivity":
+qt.qt6.dev.doc.qtbluetooth 
+qt.qt6.dev.doc.qtnfc 
+qt.qt6.dev.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.dev.addons.qtdatavis3d":
+qt.qt6.dev.doc.qtdatavis3d 
+qt.qt6.dev.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.doc.qthttpserver 
+qt.qt6.dev.examples.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtwebsockets":
+qt.qt6.dev.doc.qtwebsockets 
+qt.qt6.dev.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtimageformats":
+qt.qt6.dev.doc.qtimageformats 
+qt.qt6.dev.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtimageformats 
+Components added as dependency for "qt.qt6.dev.addons.qtinsighttracker":
+qt.qt6.dev.examples.qtinsighttracker 
+qt.qt6.dev.doc.qtinsighttracker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtinsighttracker 
+Components added as dependency for "qt.qt6.dev.addons.qtlanguageserver":
+qt.qt6.dev.doc.qtlanguageserver 
+qt.qt6.dev.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.dev.addons.qtlocation":
+qt.qt6.dev.doc.qtlocation 
+qt.qt6.dev.examples.qtlocation 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlocation 
+Components added as dependency for "qt.qt6.dev.addons.qtlottie":
+qt.qt6.dev.doc.qtlottie 
+qt.qt6.dev.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlottie 
+Components added as dependency for "qt.qt6.dev.addons.qtmultimedia":
+qt.qt6.dev.doc.qtmultimedia 
+qt.qt6.dev.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.dev.addons.qtnetworkauth":
+qt.qt6.dev.doc.qtnetworkauth 
+qt.qt6.dev.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.doc.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.doc.qtwebengine 
+qt.qt6.dev.examples.qtwebengine 
+Components added as dependency for "qt.qt6.dev.addons.qtwebchannel":
+qt.qt6.dev.doc.qtwebchannel 
+qt.qt6.dev.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtpositioning":
+qt.qt6.dev.doc.qtpositioning 
+qt.qt6.dev.examples.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtgrpc":
+qt.qt6.dev.doc.qtgrpc 
+qt.qt6.dev.examples.qtgrpc 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtgrpc 
+Components added as dependency for "qt.qt6.dev.addons.qtquickeffectmaker":
+qt.qt6.dev.doc.qtquickeffectmaker 
+qt.qt6.dev.examples.qtquickeffectmaker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquickeffectmaker 
+Components added as dependency for "qt.qt6.dev.addons.qtremoteobjects":
+qt.qt6.dev.doc.qtremoteobjects 
+qt.qt6.dev.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.dev.addons.qtsensors":
+qt.qt6.dev.doc.qtsensors 
+qt.qt6.dev.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtsensors 
+Components added as dependency for "qt.qt6.dev.addons.qtserialbus":
+qt.qt6.dev.doc.qtserialbus 
+qt.qt6.dev.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialbus 
+Components added as dependency for "qt.qt6.dev.addons.qtserialport":
+qt.qt6.dev.doc.qtserialport 
+qt.qt6.dev.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialport 
+Components added as dependency for "qt.qt6.dev.addons.qtspeech":
+qt.qt6.dev.doc.qtspeech 
+qt.qt6.dev.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtspeech 
+Components added as dependency for "qt.qt6.dev.addons.qtscxml":
+qt.qt6.dev.doc.qtscxml 
+qt.qt6.dev.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtscxml 
+Components added as dependency for "qt.qt6.dev.addons.qtvirtualkeyboard":
+qt.qt6.dev.doc.qtvirtualkeyboard 
+qt.qt6.dev.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.dev.addons.qtwebview":
+qt.qt6.dev.doc.qtwebview 
+qt.qt6.dev.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtwebview 
+Components added as dependency for "qt.qt6.dev.addons.qtquick3dphysics":
+qt.qt6.dev.doc.qtquick3dphysics 
+qt.qt6.dev.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquick3dphysics 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.qt6.dev.src.qtinsighttracker 
+qt.tools.qtcreator_gui.telemetry 
+qt.qt6.dev.addons.qtserialport.android_x86 
+qt.qt6.dev.qtquick3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebchannel.wasm_multithread 
+qt.qt6.dev.debug_info.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_x86_64 
+qt.qt6.dev.addons.qtspeech.android_x86_64 
+qt.qt6.dev.addons.qtlanguageserver.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_x86 
+qt.qt6.dev.addons.qtwebchannel.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86 
+qt.qt6.dev.qt5compat.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebchannel.android_x86_64 
+qt.qt6.dev.qtquick3d.win64_mingw 
+qt.qt6.dev.addons.qtwebsockets.android_x86 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.wasm_singlethread 
+qt.qt6.dev.qtquick3d.android_armv7 
+qt.qt6.dev.addons.qtspeech.wasm_multithread 
+qt.qt6.dev.addons.qtsensors.android_arm64_v8a 
+qt.qt6.dev.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_x86 
+qt.qt6.dev.addons.qt3d.android_x86 
+qt.qt6.dev.addons.qtinsighttracker.wasm_singlethread 
+qt.qt6.dev.addons.qtwebview.win64_mingw 
+qt.qt6.dev.addons.qtactiveqt.win64_mingw 
+qt.qt6.dev.debug_info.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_multithread 
+qt.qt6.dev.addons.qt3d.win64_mingw 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.android_arm64_v8a 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_arm64_v8a 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.dev.addons.qtinsighttracker.win64_mingw 
+qt.qt6.dev.qtshadertools.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.win64_mingw 
+qt.qt6.dev.addons.qtinsighttracker.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_arm64_v8a 
+qt.qt6.dev.addons.qtinsighttracker.android_x86 
+qt.qt6.dev.addons.qtserialport.android_armv7 
+qt.qt6.dev.addons.qtscxml.android_x86 
+qt.qt6.dev.addons.qtlottie.wasm_singlethread 
+qt.qt6.dev.addons.qtimageformats.android_x86 
+qt.qt6.dev.addons.qtserialbus.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.dev.addons.qtinsighttracker.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.android_x86_64 
+qt.qt6.dev.addons.qtlocation.win64_mingw 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86_64 
+qt.qt6.dev.addons.qtgrpc.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.android_x86 
+qt.qt6.dev.addons.qtlottie.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86_64 
+qt.qt6.dev.qtquicktimeline.android_x86_64 
+qt.qt6.dev.qtshadertools.android_arm64_v8a 
+qt.qt6.dev.qtquick3d.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_multithread 
+qt.qt6.dev.addons.qtimageformats.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.dev.addons.qtwebsockets.android_x86_64 
+qt.qt6.dev.qtquicktimeline.wasm_singlethread 
+qt.qt6.dev.addons.qtscxml.wasm_singlethread 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_64 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.wasm_singlethread 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.dev.qt5compat.android_x86_64 
+qt.qt6.dev.addons.qtdatavis3d.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.dev.addons.qthttpserver.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86 
+qt.qt6.dev.addons.qtpositioning.android_x86_64 
+qt.qt6.dev.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86_64 
+qt.qt6.dev.addons.qtscxml.android_x86_64 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_arm64_v8a 
+qt.qt6.dev.addons.qtpositioning.android_x86 
+qt.qt6.dev.addons.qthttpserver.win64_mingw 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.win64_mingw 
+qt.qt6.dev.addons.qtwebview.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebview.android_x86_64 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_x86 
+qt.qt6.dev.addons.qthttpserver.wasm_multithread 
+qt.qt6.dev.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtserialport.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebsockets.android_armv7 
+qt.qt6.dev.addons.qtmultimedia.android_x86_64 
+qt.qt6.dev.addons.qtspeech.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.android_armv7 
+qt.qt6.dev.addons.qtremoteobjects.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_mingw 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.wasm_multithread 
+qt.qt6.dev.addons.qtinsighttracker.android_x86_64 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.dev.addons.qtserialbus.android_x86_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_multithread 
+qt.qt6.dev.addons.qtwebsockets.win64_mingw 
+qt.qt6.dev.qt5compat.wasm_multithread 
+qt.qt6.dev.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.android_arm64_v8a 
+qt.qt6.dev.qt5compat.wasm_singlethread 
+qt.qt6.dev.addons.qtinsighttracker.wasm_multithread 
+qt.qt6.dev.addons.qtwebchannel.wasm_singlethread 
+qt.qt6.dev.addons.qtspeech.win64_mingw 
+qt.qt6.dev.addons.qtdatavis3d.android_x86 
+qt.qt6.dev.addons.qtlocation.android_x86_64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.wasm_singlethread 
+qt.qt6.dev.qtshadertools.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_arm64_v8a 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.android_x86 
+qt.qt6.dev.qtquicktimeline.wasm_multithread 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qthttpserver.android_x86_64 
+qt.qt6.dev.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.wasm_singlethread 
+qt.qt6.dev.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.dev.addons.qtsensors.android_x86 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.dev.addons.qtscxml.android_armv7 
+qt.qt6.dev.addons.qtlottie.android_x86_64 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.android_x86 
+qt.qt6.dev.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.android_x86 
+qt.qt6.dev.qtquick3d.wasm_singlethread 
+qt.qt6.dev.addons.qtdatavis3d.wasm_multithread 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.dev.qtquick3d.android_x86_64 
+qt.qt6.dev.qt5compat.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialport.android_x86_64 
+qt.qt6.dev.addons.qtlocation.android_x86 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_x86_64 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_armv7 
+qt.qt6.dev.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.dev.addons.qtspeech.android_x86 
+qt.qt6.dev.addons.qtgrpc.android_x86 
+qt.qt6.dev.addons.qtcharts.wasm_multithread 
+qt.qt6.dev.addons.qtlottie.android_armv7 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qt3d.android_armv7 
+qt.qt6.dev.debug_info.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.win64_mingw 
+qt.qt6.dev.qtquicktimeline.android_x86 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_armv7 
+qt.qt6.dev.addons.qtsensors.android_armv7 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtcharts.win64_mingw 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.dev.addons.qtremoteobjects.android_x86_64 
+qt.qt6.dev.addons.qtwebchannel.win64_mingw 
+qt.qt6.dev.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.android_armv7 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.dev.addons.qtconnectivity.android_armv7 
+qt.qt6.dev.addons.qtscxml.win64_mingw 
+qt.qt6.dev.addons.qtsensors.win64_mingw 
+qt.qt6.dev.addons.qtscxml.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.android_armv7 
+qt.qt6.dev.addons.qtserialport.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtsensors.android_x86_64 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.wasm_singlethread 
+qt.qt6.dev.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebview.android_x86 
+qt.qt6.dev.addons.qtscxml.wasm_multithread 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.android_armv7 
+qt.qt6.dev.addons.qthttpserver.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.wasm_singlethread 
+qt.qt6.dev.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.dev.addons.qtnetworkauth.android_armv7 
+qt.qt6.dev.addons.qtspeech.android_armv7 
+qt.qt6.dev.addons.qtimageformats.wasm_multithread 
+qt.qt6.dev.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.dev.addons.qt3d.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.android_arm64_v8a
+[811775] Installation space required: "37.14 GB" Temporary space required: "6.87 GB" Local repository size: "0.00 bytes"
+[811777] Cache and install directories are on the same volume. Volume mount point: "C:\\" Free space available: "6.71 GB"
+[836627] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[844659] Selected components without dependencies:
+qtdesignstudio 
+qt 
+qt.tools.maintenance 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.tools.vcredist_msvc2019_x64 
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components that have resolved dependencies:
+qt.tools 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.tools.qtcreator_gui":
+qt.tools.qtcreator 
+Components that have resolved dependencies:
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.tools.qtcreator_gui.telemetry
+[844660] Installation space required: "2.43 GB" Temporary space required: "1.03 GB" Local repository size: "0.00 bytes"
+[844662] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "6.71 GB" Install volume mount point: "D:\\" Free space available: "47.15 GB"
+[859486] Saving uuid for: "zwalid327@gmail.com"
+[859488] backup  operation: Mkdir
+[859488] 	- arguments: D:/
+[859489] Done
+[859492] perform  operation: Mkdir
+[859492] 	- arguments: D:/
+[859493] Done
+[859493] Starting elevated process "D:\\zvwda\\qt-unified-windows-x64-4.5.2-online.exe" with arguments " --start-server PRODUCTION,{a1929554-356e-4d5c-906b-c689549a1037},{72f9983c-7318-4430-a205-17c415b550e6}"
+[861688] Warning: Error while starting elevated process "D:/zvwda/qt-unified-windows-x64-4.5.2-online.exe" : "The operation was canceled by the user.\r\n (0x000004c7)"
+[861688] AuthorizationError : Cannot get authorization. : Cannot get authorization that is needed for continuing the installation.
+
+Please start the setup program as a user with the appropriate rights,
+or accept the elevation of access rights if being asked. Abort|Retry
+[866586] installationError : Error : Error while elevating access rights.
+[868279] ROLLING BACK operations= 0
+[868280] Installation aborted!
+************************************* Invoked: ????? ????? 9 16:30:21 2023
+[0] Arguments: D:\zvwda\qt-unified-windows-x64-4.5.2-online.exe
+[18] Operations sanity check succeeded.
+[24] Using metadata cache from "C:/Users/HP/AppData/Local/cache\\qt-unified-windows-online"
+[24] Found 82 cached items.
+[25] Reading Qt Account settings from disk: "C:/Users/HP/AppData/Roaming/Qt/qtaccount.ini"
+[25] QtAccount information:
+[25] Login completed: false
+[25] Email: "zwalid327@gmail.com"
+[25] Total number of licenses: 0
+[25] Account type: 3
+[26] Language: en-US
+[4233] Login completed to Qt Account: "zwalid327@gmail.com"
+[4865] Warning: No licenses found. Continuing open source installation.
+[4874] Saving licenses to file: "C:/Users/HP/AppData/Roaming/Qt/qtlicenses.ini"
+[4879] Saving Qt Account settings to file: "C:/Users/HP/AppData/Roaming/Qt/qtaccount.ini"
+[5074] "????? ?????? ??????? ?????? ????? ????? ???? ?? ???????!" [ "success" ]
+[30566] Fetching latest update information...
+[34045] Loading component scripts...
+[47468] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[66326] Selected components without dependencies:
+preview 
+qtdesignstudio 
+qt 
+qt.qt6.dev.src 
+qt.qt6.dev.addons 
+qt.qt6.dev.debug_info 
+qt.qt6.650.src 
+qt.qt6.650.addons 
+qt.qt6.650.debug_info 
+qt.qt6.643.src 
+qt.qt6.643.addons 
+qt.qt6.643.debug_info 
+qt.qt6.632.src 
+qt.qt6.632.addons 
+qt.qt6.632.debug_info 
+qt.qt6.624.src 
+qt.qt6.624.addons 
+qt.qt6.624.debug_info 
+qt.qt5.5152.src 
+qt.qt5.5152.qtwebglplugin 
+qt.qt5.5152.debug_info 
+qt.tools.qtcreatordbg 
+qt.tools.qtcreatordev 
+qt.tools.win32_mingw48 
+qt.tools.mingw47 
+qt.tools.ifw.45 
+qt.tools.openssl 
+qt.tools.maintenance 
+qt.tools.openssl.win_x86 
+qt.tools.openssl.win_x64 
+qt.tools.openssl.src 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components added as dependency for "qt.qt6.dev.doc":
+qt.tools 
+Components added as dependency for "qt.qt6.dev":
+qt.qt6.dev.doc 
+qt.qt6.dev.examples 
+Components that have resolved dependencies:
+qt.qt6.dev 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_msvc2019_x64 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.qt6.dev.win64_mingw":
+qt.tools.qtcreator 
+qt.tools.win64_mingw900 
+Components added as dependency for "qt.qt6.dev.wasm_multithread":
+qt.qt6.dev.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.dev.wasm_multithread 
+qt.qt6.dev.wasm_singlethread 
+Components added as dependency for "qt.qt6.dev.win64_msvc2019_arm64":
+qt.qt6.dev.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.dev.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.dev.android":
+qt.qt6.dev.android_arm64_v8a 
+qt.qt6.dev.android_armv7 
+qt.qt6.dev.android_x86 
+qt.qt6.dev.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.dev.android 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.doc.qtquick3d 
+qt.qt6.dev.examples.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qtshadertools":
+qt.qt6.dev.doc.qtshadertools 
+qt.qt6.dev.examples.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtshadertools 
+Components added as dependency for "qt.qt6.dev.qtquicktimeline":
+qt.qt6.dev.doc.qtquicktimeline 
+qt.qt6.dev.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.dev.qtquick3d":
+qt.qt6.dev.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.dev.qtquick3d 
+Components added as dependency for "qt.qt6.dev.qt5compat":
+qt.qt6.dev.doc.qt5compat 
+qt.qt6.dev.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.dev.qt5compat 
+Components added as dependency for "qt.qt6.dev.addons.qtactiveqt":
+qt.qt6.dev.doc.qtactiveqt 
+qt.qt6.dev.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.dev.addons.qt3d":
+qt.qt6.dev.doc.qt3d 
+qt.qt6.dev.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qt3d 
+Components added as dependency for "qt.qt6.dev.addons.qtcharts":
+qt.qt6.dev.doc.qtcharts 
+qt.qt6.dev.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtcharts 
+Components added as dependency for "qt.qt6.dev.addons.qtconnectivity":
+qt.qt6.dev.doc.qtbluetooth 
+qt.qt6.dev.doc.qtnfc 
+qt.qt6.dev.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.dev.addons.qtdatavis3d":
+qt.qt6.dev.doc.qtdatavis3d 
+qt.qt6.dev.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.doc.qthttpserver 
+qt.qt6.dev.examples.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtwebsockets":
+qt.qt6.dev.doc.qtwebsockets 
+qt.qt6.dev.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.dev.addons.qthttpserver":
+qt.qt6.dev.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qthttpserver 
+Components added as dependency for "qt.qt6.dev.addons.qtimageformats":
+qt.qt6.dev.doc.qtimageformats 
+qt.qt6.dev.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtimageformats 
+Components added as dependency for "qt.qt6.dev.addons.qtinsighttracker":
+qt.qt6.dev.examples.qtinsighttracker 
+qt.qt6.dev.doc.qtinsighttracker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtinsighttracker 
+Components added as dependency for "qt.qt6.dev.addons.qtlanguageserver":
+qt.qt6.dev.doc.qtlanguageserver 
+qt.qt6.dev.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.dev.addons.qtlocation":
+qt.qt6.dev.doc.qtlocation 
+qt.qt6.dev.examples.qtlocation 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlocation 
+Components added as dependency for "qt.qt6.dev.addons.qtlottie":
+qt.qt6.dev.doc.qtlottie 
+qt.qt6.dev.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtlottie 
+Components added as dependency for "qt.qt6.dev.addons.qtmultimedia":
+qt.qt6.dev.doc.qtmultimedia 
+qt.qt6.dev.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.dev.addons.qtnetworkauth":
+qt.qt6.dev.doc.qtnetworkauth 
+qt.qt6.dev.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.doc.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.doc.qtwebengine 
+qt.qt6.dev.examples.qtwebengine 
+Components added as dependency for "qt.qt6.dev.addons.qtwebchannel":
+qt.qt6.dev.doc.qtwebchannel 
+qt.qt6.dev.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.dev.addons.qtpositioning":
+qt.qt6.dev.doc.qtpositioning 
+qt.qt6.dev.examples.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtwebengine":
+qt.qt6.dev.addons.qtpositioning 
+Components added as dependency for "qt.qt6.dev.addons.qtpdf":
+qt.qt6.dev.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtpdf 
+Components added as dependency for "qt.qt6.dev.addons.qtgrpc":
+qt.qt6.dev.doc.qtgrpc 
+qt.qt6.dev.examples.qtgrpc 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtgrpc 
+Components added as dependency for "qt.qt6.dev.addons.qtquickeffectmaker":
+qt.qt6.dev.doc.qtquickeffectmaker 
+qt.qt6.dev.examples.qtquickeffectmaker 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquickeffectmaker 
+Components added as dependency for "qt.qt6.dev.addons.qtremoteobjects":
+qt.qt6.dev.doc.qtremoteobjects 
+qt.qt6.dev.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.dev.addons.qtsensors":
+qt.qt6.dev.doc.qtsensors 
+qt.qt6.dev.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtsensors 
+Components added as dependency for "qt.qt6.dev.addons.qtserialbus":
+qt.qt6.dev.doc.qtserialbus 
+qt.qt6.dev.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialbus 
+Components added as dependency for "qt.qt6.dev.addons.qtserialport":
+qt.qt6.dev.doc.qtserialport 
+qt.qt6.dev.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtserialport 
+Components added as dependency for "qt.qt6.dev.addons.qtspeech":
+qt.qt6.dev.doc.qtspeech 
+qt.qt6.dev.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtspeech 
+Components added as dependency for "qt.qt6.dev.addons.qtscxml":
+qt.qt6.dev.doc.qtscxml 
+qt.qt6.dev.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtscxml 
+Components added as dependency for "qt.qt6.dev.addons.qtvirtualkeyboard":
+qt.qt6.dev.doc.qtvirtualkeyboard 
+qt.qt6.dev.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.dev.addons.qtwebview":
+qt.qt6.dev.doc.qtwebview 
+qt.qt6.dev.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtwebview 
+Components added as dependency for "qt.qt6.dev.addons.qtquick3dphysics":
+qt.qt6.dev.doc.qtquick3dphysics 
+qt.qt6.dev.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.dev.addons.qtquick3dphysics 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+preview.qt.tools.qtdesignstudio 
+Components added as dependency for "qt.qt6.650":
+qt.qt6.650.doc 
+qt.qt6.650.examples 
+Components that have resolved dependencies:
+qt.qt6.650 
+Components added as dependency for "qt.qt6.643":
+qt.qt6.643.doc 
+qt.qt6.643.examples 
+Components that have resolved dependencies:
+qt.qt6.643 
+Components added as dependency for "qt.qt6.632":
+qt.qt6.632.doc 
+qt.qt6.632.examples 
+Components that have resolved dependencies:
+qt.qt6.632 
+Components added as dependency for "qt.qt6.624":
+qt.qt6.624.doc 
+qt.qt6.624.examples 
+Components that have resolved dependencies:
+qt.qt6.624 
+Components added as dependency for "qt.qt5.5152":
+qt.qt5.5152.doc 
+qt.qt5.5152.examples 
+Components that have resolved dependencies:
+qt.qt5.5152 
+Components added as dependency for "qt.qt6.650.wasm_multithread":
+qt.qt6.650.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.650.wasm_multithread 
+qt.qt6.650.wasm_singlethread 
+Components added as dependency for "qt.qt6.650.win64_msvc2019_arm64":
+qt.qt6.650.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.650.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.650.android":
+qt.qt6.650.android_arm64_v8a 
+qt.qt6.650.android_armv7 
+qt.qt6.650.android_x86 
+qt.qt6.650.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.650.android 
+Components added as dependency for "qt.qt6.650.qtquick3d":
+qt.qt6.650.doc.qtquick3d 
+qt.qt6.650.examples.qtquick3d 
+Components added as dependency for "qt.qt6.650.qtshadertools":
+qt.qt6.650.doc.qtshadertools 
+qt.qt6.650.examples.qtshadertools 
+Components added as dependency for "qt.qt6.650.qtquick3d":
+qt.qt6.650.qtshadertools 
+Components added as dependency for "qt.qt6.650.qtquicktimeline":
+qt.qt6.650.doc.qtquicktimeline 
+qt.qt6.650.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.650.qtquick3d":
+qt.qt6.650.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.650.qtquick3d 
+Components added as dependency for "qt.qt6.650.qt5compat":
+qt.qt6.650.doc.qt5compat 
+qt.qt6.650.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.650.qt5compat 
+Components added as dependency for "qt.qt6.650.addons.qtactiveqt":
+qt.qt6.650.doc.qtactiveqt 
+qt.qt6.650.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.650.addons.qt3d":
+qt.qt6.650.doc.qt3d 
+qt.qt6.650.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qt3d 
+Components added as dependency for "qt.qt6.650.addons.qtcharts":
+qt.qt6.650.doc.qtcharts 
+qt.qt6.650.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtcharts 
+Components added as dependency for "qt.qt6.650.addons.qtconnectivity":
+qt.qt6.650.doc.qtbluetooth 
+qt.qt6.650.doc.qtnfc 
+qt.qt6.650.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.650.addons.qtdatavis3d":
+qt.qt6.650.doc.qtdatavis3d 
+qt.qt6.650.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.650.addons.qthttpserver":
+qt.qt6.650.doc.qthttpserver 
+qt.qt6.650.examples.qthttpserver 
+Components added as dependency for "qt.qt6.650.addons.qtwebsockets":
+qt.qt6.650.doc.qtwebsockets 
+qt.qt6.650.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.650.addons.qthttpserver":
+qt.qt6.650.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qthttpserver 
+Components added as dependency for "qt.qt6.650.addons.qtimageformats":
+qt.qt6.650.doc.qtimageformats 
+qt.qt6.650.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtimageformats 
+Components added as dependency for "qt.qt6.650.addons.qtinsighttracker":
+qt.qt6.650.examples.qtinsighttracker 
+qt.qt6.650.doc.qtinsighttracker 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtinsighttracker 
+Components added as dependency for "qt.qt6.650.addons.qtlanguageserver":
+qt.qt6.650.doc.qtlanguageserver 
+qt.qt6.650.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.650.addons.qtlocation":
+qt.qt6.650.doc.qtlocation 
+qt.qt6.650.examples.qtlocation 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtlocation 
+Components added as dependency for "qt.qt6.650.addons.qtlottie":
+qt.qt6.650.doc.qtlottie 
+qt.qt6.650.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtlottie 
+Components added as dependency for "qt.qt6.650.addons.qtmultimedia":
+qt.qt6.650.doc.qtmultimedia 
+qt.qt6.650.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.650.addons.qtnetworkauth":
+qt.qt6.650.doc.qtnetworkauth 
+qt.qt6.650.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.650.addons.qtpdf":
+qt.qt6.650.doc.qtpdf 
+Components added as dependency for "qt.qt6.650.addons.qtwebengine":
+qt.qt6.650.doc.qtwebengine 
+qt.qt6.650.examples.qtwebengine 
+Components added as dependency for "qt.qt6.650.addons.qtwebchannel":
+qt.qt6.650.doc.qtwebchannel 
+qt.qt6.650.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.650.addons.qtwebengine":
+qt.qt6.650.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.650.addons.qtpositioning":
+qt.qt6.650.doc.qtpositioning 
+qt.qt6.650.examples.qtpositioning 
+Components added as dependency for "qt.qt6.650.addons.qtwebengine":
+qt.qt6.650.addons.qtpositioning 
+Components added as dependency for "qt.qt6.650.addons.qtpdf":
+qt.qt6.650.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtpdf 
+Components added as dependency for "qt.qt6.650.addons.qtgrpc":
+qt.qt6.650.doc.qtgrpc 
+qt.qt6.650.examples.qtgrpc 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtgrpc 
+Components added as dependency for "qt.qt6.650.addons.qtquickeffectmaker":
+qt.qt6.650.doc.qtquickeffectmaker 
+qt.qt6.650.examples.qtquickeffectmaker 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtquickeffectmaker 
+Components added as dependency for "qt.qt6.650.addons.qtremoteobjects":
+qt.qt6.650.doc.qtremoteobjects 
+qt.qt6.650.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.650.addons.qtsensors":
+qt.qt6.650.doc.qtsensors 
+qt.qt6.650.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtsensors 
+Components added as dependency for "qt.qt6.650.addons.qtserialbus":
+qt.qt6.650.doc.qtserialbus 
+qt.qt6.650.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtserialbus 
+Components added as dependency for "qt.qt6.650.addons.qtserialport":
+qt.qt6.650.doc.qtserialport 
+qt.qt6.650.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtserialport 
+Components added as dependency for "qt.qt6.650.addons.qtspeech":
+qt.qt6.650.doc.qtspeech 
+qt.qt6.650.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtspeech 
+Components added as dependency for "qt.qt6.650.addons.qtscxml":
+qt.qt6.650.doc.qtscxml 
+qt.qt6.650.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtscxml 
+Components added as dependency for "qt.qt6.650.addons.qtvirtualkeyboard":
+qt.qt6.650.doc.qtvirtualkeyboard 
+qt.qt6.650.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.650.addons.qtwebview":
+qt.qt6.650.doc.qtwebview 
+qt.qt6.650.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtwebview 
+Components added as dependency for "qt.qt6.650.addons.qtquick3dphysics":
+qt.qt6.650.doc.qtquick3dphysics 
+qt.qt6.650.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.650.addons.qtquick3dphysics 
+Components added as dependency for "qt.qt6.643.wasm_32":
+qt.qt6.643.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.643.wasm_32 
+Components added as dependency for "qt.qt6.643.win64_msvc2019_arm64":
+qt.qt6.643.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.643.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.643.android":
+qt.qt6.643.android_arm64_v8a 
+qt.qt6.643.android_armv7 
+qt.qt6.643.android_x86 
+qt.qt6.643.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.643.android 
+Components added as dependency for "qt.qt6.643.qtquick3d":
+qt.qt6.643.doc.qtquick3d 
+qt.qt6.643.examples.qtquick3d 
+Components added as dependency for "qt.qt6.643.qtshadertools":
+qt.qt6.643.doc.qtshadertools 
+qt.qt6.643.examples.qtshadertools 
+Components added as dependency for "qt.qt6.643.qtquick3d":
+qt.qt6.643.qtshadertools 
+Components added as dependency for "qt.qt6.643.qtquicktimeline":
+qt.qt6.643.doc.qtquicktimeline 
+qt.qt6.643.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.643.qtquick3d":
+qt.qt6.643.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.643.qtquick3d 
+Components added as dependency for "qt.qt6.643.qt5compat":
+qt.qt6.643.doc.qt5compat 
+qt.qt6.643.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.643.qt5compat 
+Components added as dependency for "qt.qt6.643.addons.qtactiveqt":
+qt.qt6.643.doc.qtactiveqt 
+qt.qt6.643.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.643.addons.qt3d":
+qt.qt6.643.doc.qt3d 
+qt.qt6.643.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qt3d 
+Components added as dependency for "qt.qt6.643.addons.qtcharts":
+qt.qt6.643.doc.qtcharts 
+qt.qt6.643.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtcharts 
+Components added as dependency for "qt.qt6.643.addons.qtconnectivity":
+qt.qt6.643.doc.qtbluetooth 
+qt.qt6.643.doc.qtnfc 
+qt.qt6.643.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.643.addons.qtdatavis3d":
+qt.qt6.643.doc.qtdatavis3d 
+qt.qt6.643.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.643.addons.qthttpserver":
+qt.qt6.643.doc.qthttpserver 
+qt.qt6.643.examples.qthttpserver 
+Components added as dependency for "qt.qt6.643.addons.qtwebsockets":
+qt.qt6.643.doc.qtwebsockets 
+qt.qt6.643.examples.qtwebsockets 
+Components added as dependency for "qt.qt6.643.addons.qthttpserver":
+qt.qt6.643.addons.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qthttpserver 
+Components added as dependency for "qt.qt6.643.addons.qtimageformats":
+qt.qt6.643.doc.qtimageformats 
+qt.qt6.643.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtimageformats 
+Components added as dependency for "qt.qt6.643.addons.qtlanguageserver":
+qt.qt6.643.doc.qtlanguageserver 
+qt.qt6.643.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.643.addons.qtlottie":
+qt.qt6.643.doc.qtlottie 
+qt.qt6.643.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtlottie 
+Components added as dependency for "qt.qt6.643.addons.qtmultimedia":
+qt.qt6.643.doc.qtmultimedia 
+qt.qt6.643.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.643.addons.qtnetworkauth":
+qt.qt6.643.doc.qtnetworkauth 
+qt.qt6.643.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.643.addons.qtpdf":
+qt.qt6.643.doc.qtpdf 
+Components added as dependency for "qt.qt6.643.addons.qtwebengine":
+qt.qt6.643.doc.qtwebengine 
+qt.qt6.643.examples.qtwebengine 
+Components added as dependency for "qt.qt6.643.addons.qtwebchannel":
+qt.qt6.643.doc.qtwebchannel 
+qt.qt6.643.examples.qtwebchannel 
+Components added as dependency for "qt.qt6.643.addons.qtwebengine":
+qt.qt6.643.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.643.addons.qtpositioning":
+qt.qt6.643.doc.qtpositioning 
+qt.qt6.643.examples.qtpositioning 
+Components added as dependency for "qt.qt6.643.addons.qtwebengine":
+qt.qt6.643.addons.qtpositioning 
+Components added as dependency for "qt.qt6.643.addons.qtpdf":
+qt.qt6.643.addons.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtpdf 
+Components added as dependency for "qt.qt6.643.addons.qtremoteobjects":
+qt.qt6.643.doc.qtremoteobjects 
+qt.qt6.643.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.643.addons.qtsensors":
+qt.qt6.643.doc.qtsensors 
+qt.qt6.643.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtsensors 
+Components added as dependency for "qt.qt6.643.addons.qtserialbus":
+qt.qt6.643.doc.qtserialbus 
+qt.qt6.643.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtserialbus 
+Components added as dependency for "qt.qt6.643.addons.qtserialport":
+qt.qt6.643.doc.qtserialport 
+qt.qt6.643.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtserialport 
+Components added as dependency for "qt.qt6.643.addons.qtspeech":
+qt.qt6.643.doc.qtspeech 
+qt.qt6.643.examples.qtspeech 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtspeech 
+Components added as dependency for "qt.qt6.643.addons.qtscxml":
+qt.qt6.643.doc.qtscxml 
+qt.qt6.643.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtscxml 
+Components added as dependency for "qt.qt6.643.addons.qtvirtualkeyboard":
+qt.qt6.643.doc.qtvirtualkeyboard 
+qt.qt6.643.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.643.addons.qtwebview":
+qt.qt6.643.doc.qtwebview 
+qt.qt6.643.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtwebview 
+Components added as dependency for "qt.qt6.643.addons.qtquick3dphysics":
+qt.qt6.643.doc.qtquick3dphysics 
+qt.qt6.643.examples.qtquick3dphysics 
+Components that have resolved dependencies:
+qt.qt6.643.addons.qtquick3dphysics 
+Components added as dependency for "qt.qt6.632.wasm_32":
+qt.qt6.632.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.632.wasm_32 
+Components added as dependency for "qt.qt6.632.win64_msvc2019_arm64":
+qt.qt6.632.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.632.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.632.android":
+qt.qt6.632.android_arm64_v8a 
+qt.qt6.632.android_armv7 
+qt.qt6.632.android_x86 
+qt.qt6.632.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.632.android 
+Components added as dependency for "qt.qt6.632.qtquick3d":
+qt.qt6.632.doc.qtquick3d 
+qt.qt6.632.examples.qtquick3d 
+Components added as dependency for "qt.qt6.632.qtshadertools":
+qt.qt6.632.doc.qtshadertools 
+qt.qt6.632.examples.qtshadertools 
+Components added as dependency for "qt.qt6.632.qtquick3d":
+qt.qt6.632.qtshadertools 
+Components added as dependency for "qt.qt6.632.qtquicktimeline":
+qt.qt6.632.doc.qtquicktimeline 
+qt.qt6.632.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.632.qtquick3d":
+qt.qt6.632.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.632.qtquick3d 
+Components added as dependency for "qt.qt6.632.qt5compat":
+qt.qt6.632.doc.qt5compat 
+qt.qt6.632.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.632.qt5compat 
+Components added as dependency for "qt.qt6.632.addons.qtactiveqt":
+qt.qt6.632.doc.qtactiveqt 
+qt.qt6.632.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.632.addons.qt3d":
+qt.qt6.632.doc.qt3d 
+qt.qt6.632.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qt3d 
+Components added as dependency for "qt.qt6.632.addons.qtcharts":
+qt.qt6.632.doc.qtcharts 
+qt.qt6.632.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtcharts 
+Components added as dependency for "qt.qt6.632.addons.qtconnectivity":
+qt.qt6.632.doc.qtbluetooth 
+qt.qt6.632.doc.qtnfc 
+qt.qt6.632.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.632.addons.qtdatavis3d":
+qt.qt6.632.doc.qtdatavis3d 
+qt.qt6.632.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.632.addons.qtimageformats":
+qt.qt6.632.doc.qtimageformats 
+qt.qt6.632.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtimageformats 
+Components added as dependency for "qt.qt6.632.addons.qtlanguageserver":
+qt.qt6.632.doc.qtlanguageserver 
+qt.qt6.632.examples.qtlanguageserver 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtlanguageserver 
+Components added as dependency for "qt.qt6.632.addons.qtlottie":
+qt.qt6.632.doc.qtlottie 
+qt.qt6.632.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtlottie 
+Components added as dependency for "qt.qt6.632.addons.qtmultimedia":
+qt.qt6.632.doc.qtmultimedia 
+qt.qt6.632.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.632.addons.qtnetworkauth":
+qt.qt6.632.doc.qtnetworkauth 
+qt.qt6.632.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.632.addons.qtpdf":
+qt.qt6.632.doc.qtpdf 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtpdf 
+Components added as dependency for "qt.qt6.632.addons.qtpositioning":
+qt.qt6.632.doc.qtpositioning 
+qt.qt6.632.examples.qtpositioning 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtpositioning 
+Components added as dependency for "qt.qt6.632.addons.qtremoteobjects":
+qt.qt6.632.doc.qtremoteobjects 
+qt.qt6.632.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.632.addons.qtsensors":
+qt.qt6.632.doc.qtsensors 
+qt.qt6.632.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtsensors 
+Components added as dependency for "qt.qt6.632.addons.qtserialbus":
+qt.qt6.632.doc.qtserialbus 
+qt.qt6.632.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtserialbus 
+Components added as dependency for "qt.qt6.632.addons.qtserialport":
+qt.qt6.632.doc.qtserialport 
+qt.qt6.632.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtserialport 
+Components added as dependency for "qt.qt6.632.addons.qtscxml":
+qt.qt6.632.doc.qtscxml 
+qt.qt6.632.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtscxml 
+Components added as dependency for "qt.qt6.632.addons.qtvirtualkeyboard":
+qt.qt6.632.doc.qtvirtualkeyboard 
+qt.qt6.632.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.632.addons.qtwebchannel":
+qt.qt6.632.doc.qtwebchannel 
+qt.qt6.632.examples.qtwebchannel 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.632.addons.qtwebengine":
+qt.qt6.632.doc.qtwebengine 
+qt.qt6.632.examples.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtwebengine 
+Components added as dependency for "qt.qt6.632.addons.qtwebsockets":
+qt.qt6.632.doc.qtwebsockets 
+qt.qt6.632.examples.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtwebsockets 
+Components added as dependency for "qt.qt6.632.addons.qtwebview":
+qt.qt6.632.doc.qtwebview 
+qt.qt6.632.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.632.addons.qtwebview 
+Components added as dependency for "qt.qt6.624.wasm_32":
+qt.qt6.624.win64_mingw 
+Components that have resolved dependencies:
+qt.qt6.624.wasm_32 
+Components added as dependency for "qt.qt6.624.win64_msvc2019_arm64":
+qt.qt6.624.win64_msvc2019_64 
+Components that have resolved dependencies:
+qt.qt6.624.win64_msvc2019_arm64 
+Components added as dependency for "qt.qt6.624.android":
+qt.qt6.624.android_arm64_v8a 
+qt.qt6.624.android_armv7 
+qt.qt6.624.android_x86 
+qt.qt6.624.android_x86_64 
+Components that have resolved dependencies:
+qt.qt6.624.android 
+Components added as dependency for "qt.qt6.624.qtquick3d":
+qt.qt6.624.doc.qtquick3d 
+qt.qt6.624.examples.qtquick3d 
+Components added as dependency for "qt.qt6.624.qtshadertools":
+qt.qt6.624.doc.qtshadertools 
+qt.qt6.624.examples.qtshadertools 
+Components added as dependency for "qt.qt6.624.qtquick3d":
+qt.qt6.624.qtshadertools 
+Components added as dependency for "qt.qt6.624.qtquicktimeline":
+qt.qt6.624.doc.qtquicktimeline 
+qt.qt6.624.examples.qtquicktimeline 
+Components added as dependency for "qt.qt6.624.qtquick3d":
+qt.qt6.624.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt6.624.qtquick3d 
+Components added as dependency for "qt.qt6.624.qt5compat":
+qt.qt6.624.doc.qt5compat 
+qt.qt6.624.examples.qt5compat 
+Components that have resolved dependencies:
+qt.qt6.624.qt5compat 
+Components added as dependency for "qt.qt6.624.addons.qtwebengine":
+qt.qt6.624.doc.qtwebengine 
+qt.qt6.624.examples.qtwebengine 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtwebengine 
+Components added as dependency for "qt.qt6.624.addons.qtactiveqt":
+qt.qt6.624.doc.qtactiveqt 
+qt.qt6.624.examples.qtactiveqt 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtactiveqt 
+Components added as dependency for "qt.qt6.624.addons.qt3d":
+qt.qt6.624.doc.qt3d 
+qt.qt6.624.examples.qt3d 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qt3d 
+Components added as dependency for "qt.qt6.624.addons.qtcharts":
+qt.qt6.624.doc.qtcharts 
+qt.qt6.624.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtcharts 
+Components added as dependency for "qt.qt6.624.addons.qtconnectivity":
+qt.qt6.624.doc.qtbluetooth 
+qt.qt6.624.doc.qtnfc 
+qt.qt6.624.examples.qtconnectivity 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtconnectivity 
+Components added as dependency for "qt.qt6.624.addons.qtdatavis3d":
+qt.qt6.624.doc.qtdatavis3d 
+qt.qt6.624.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtdatavis3d 
+Components added as dependency for "qt.qt6.624.addons.qtimageformats":
+qt.qt6.624.doc.qtimageformats 
+qt.qt6.624.examples.qtimageformats 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtimageformats 
+Components added as dependency for "qt.qt6.624.addons.qtlottie":
+qt.qt6.624.doc.qtlottie 
+qt.qt6.624.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtlottie 
+Components added as dependency for "qt.qt6.624.addons.qtmultimedia":
+qt.qt6.624.doc.qtmultimedia 
+qt.qt6.624.examples.qtmultimedia 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtmultimedia 
+Components added as dependency for "qt.qt6.624.addons.qtnetworkauth":
+qt.qt6.624.doc.qtnetworkauth 
+qt.qt6.624.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtnetworkauth 
+Components added as dependency for "qt.qt6.624.addons.qtpositioning":
+qt.qt6.624.doc.qtpositioning 
+qt.qt6.624.examples.qtpositioning 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtpositioning 
+Components added as dependency for "qt.qt6.624.addons.qtremoteobjects":
+qt.qt6.624.doc.qtremoteobjects 
+qt.qt6.624.examples.qtremoteobjects 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtremoteobjects 
+Components added as dependency for "qt.qt6.624.addons.qtsensors":
+qt.qt6.624.doc.qtsensors 
+qt.qt6.624.examples.qtsensors 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtsensors 
+Components added as dependency for "qt.qt6.624.addons.qtserialbus":
+qt.qt6.624.doc.qtserialbus 
+qt.qt6.624.examples.qtserialbus 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtserialbus 
+Components added as dependency for "qt.qt6.624.addons.qtserialport":
+qt.qt6.624.doc.qtserialport 
+qt.qt6.624.examples.qtserialport 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtserialport 
+Components added as dependency for "qt.qt6.624.addons.qtscxml":
+qt.qt6.624.doc.qtscxml 
+qt.qt6.624.examples.qtscxml 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtscxml 
+Components added as dependency for "qt.qt6.624.addons.qtvirtualkeyboard":
+qt.qt6.624.doc.qtvirtualkeyboard 
+qt.qt6.624.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtvirtualkeyboard 
+Components added as dependency for "qt.qt6.624.addons.qtwebchannel":
+qt.qt6.624.doc.qtwebchannel 
+qt.qt6.624.examples.qtwebchannel 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtwebchannel 
+Components added as dependency for "qt.qt6.624.addons.qtwebsockets":
+qt.qt6.624.doc.qtwebsockets 
+qt.qt6.624.examples.qtwebsockets 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtwebsockets 
+Components added as dependency for "qt.qt6.624.addons.qtwebview":
+qt.qt6.624.doc.qtwebview 
+qt.qt6.624.examples.qtwebview 
+Components that have resolved dependencies:
+qt.qt6.624.addons.qtwebview 
+qt.qt5.5152.wasm_32 
+qt.qt5.5152.win64_msvc2015_64 
+qt.qt5.5152.win32_msvc2019 
+qt.qt5.5152.win64_msvc2019_64 
+Components added as dependency for "qt.qt5.5152.win32_mingw81":
+qt.tools.win32_mingw810 
+Components that have resolved dependencies:
+qt.qt5.5152.win32_mingw81 
+Components added as dependency for "qt.qt5.5152.win64_mingw81":
+qt.tools.win64_mingw810 
+Components that have resolved dependencies:
+qt.qt5.5152.win64_mingw81 
+qt.qt5.5152.win64_msvc2015_winrt_armv7 
+qt.qt5.5152.win64_msvc2015_winrt_x64 
+qt.qt5.5152.win64_msvc2019_winrt_armv7 
+qt.qt5.5152.win64_msvc2019_winrt_x64 
+qt.qt5.5152.win64_msvc2019_winrt_x86 
+qt.qt5.5152.android 
+Components added as dependency for "qt.qt5.5152.qtcharts":
+qt.qt5.5152.doc.qtcharts 
+qt.qt5.5152.examples.qtcharts 
+Components that have resolved dependencies:
+qt.qt5.5152.qtcharts 
+Components added as dependency for "qt.qt5.5152.qtquick3d":
+qt.qt5.5152.doc.qtquick3d 
+qt.qt5.5152.examples.qtquick3d 
+Components that have resolved dependencies:
+qt.qt5.5152.qtquick3d 
+Components added as dependency for "qt.qt5.5152.qtdatavis3d":
+qt.qt5.5152.doc.qtdatavis3d 
+qt.qt5.5152.examples.qtdatavis3d 
+Components that have resolved dependencies:
+qt.qt5.5152.qtdatavis3d 
+Components added as dependency for "qt.qt5.5152.qtlottie":
+qt.qt5.5152.doc.qtlottie 
+qt.qt5.5152.examples.qtlottie 
+Components that have resolved dependencies:
+qt.qt5.5152.qtlottie 
+Components added as dependency for "qt.qt5.5152.qtpurchasing":
+qt.qt5.5152.doc.qtpurchasing 
+qt.qt5.5152.examples.qtpurchasing 
+Components that have resolved dependencies:
+qt.qt5.5152.qtpurchasing 
+Components added as dependency for "qt.qt5.5152.qtvirtualkeyboard":
+qt.qt5.5152.doc.qtvirtualkeyboard 
+qt.qt5.5152.examples.qtvirtualkeyboard 
+Components that have resolved dependencies:
+qt.qt5.5152.qtvirtualkeyboard 
+Components added as dependency for "qt.qt5.5152.qtwebengine":
+qt.qt5.5152.doc.qtwebengine 
+qt.qt5.5152.examples.qtwebengine 
+Components that have resolved dependencies:
+qt.qt5.5152.qtwebengine 
+Components added as dependency for "qt.qt5.5152.qtnetworkauth":
+qt.qt5.5152.doc.qtnetworkauth 
+qt.qt5.5152.examples.qtnetworkauth 
+Components that have resolved dependencies:
+qt.qt5.5152.qtnetworkauth 
+Components added as dependency for "qt.qt5.5152.qtscript":
+qt.qt5.5152.doc.qtscript 
+qt.qt5.5152.examples.qtscript 
+Components that have resolved dependencies:
+qt.qt5.5152.qtscript 
+Components added as dependency for "qt.qt5.5152.qtquicktimeline":
+qt.qt5.5152.doc.qtquicktimeline 
+qt.qt5.5152.examples.qtquicktimeline 
+Components that have resolved dependencies:
+qt.qt5.5152.qtquicktimeline 
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.win32_mingw730 
+qt.tools.win64_mingw730 
+qt.tools.win32_mingw530 
+qt.tools.win32_mingw492 
+qt.tools.win32_mingw491 
+qt.tools.win32_mingw482 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.qt6.650.src.qtinsighttracker 
+qt.qt6.dev.src.qtinsighttracker 
+qt.tools.qtcreator_gui.telemetry 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.650.addons.qtinsighttracker.wasm_multithread 
+qt.qt6.650.qtshadertools.win64_mingw 
+qt.qt6.dev.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.643.qtquicktimeline.android_x86_64 
+qt.qt6.650.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.650.addons.qtconnectivity.android_x86_64 
+qt.qt6.650.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.632.addons.qtmultimedia.android_x86_64 
+qt.qt5.5152.qtquicktimeline.win64_msvc2019_winrt_armv7 
+qt.qt6.650.qt5compat.android_armv7 
+qt.qt6.632.debug_info.win64_mingw 
+qt.qt5.5152.qtwebglplugin.win32_mingw81 
+qt.qt6.650.addons.qtdatavis3d.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.wasm_singlethread 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.650.addons.qtcharts.android_x86_64 
+qt.qt6.650.addons.qtwebsockets.android_armv7 
+qt.qt6.650.qtquicktimeline.android_x86_64 
+qt.qt5.5152.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt5.5152.qtquick3d.win64_mingw81 
+qt.qt6.624.addons.qtserialbus.android_armv7 
+qt.qt6.632.addons.qtserialport.android_armv7 
+qt.qt6.632.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.dev.qtquick3d.win64_mingw 
+qt.qt5.5152.qtpurchasing.win32_msvc2019 
+qt.qt6.624.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.632.qtquicktimeline.android_x86_64 
+qt.qt6.624.qtquicktimeline.android_x86_64 
+qt.qt6.643.addons.qt3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtgrpc.android_arm64_v8a 
+qt.qt6.643.qtshadertools.android_armv7 
+qt.qt6.650.addons.qtwebchannel.android_x86 
+qt.qt6.dev.qtquick3d.wasm_multithread 
+qt.qt6.643.qt5compat.wasm_32 
+qt.qt6.624.addons.qtpositioning.android_x86_64 
+qt.qt6.650.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.dev.qt5compat.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtwebview.android_x86 
+qt.qt6.624.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtimageformats.android_armv7 
+qt.qt6.632.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.624.qt5compat.android_armv7 
+qt.qt6.643.addons.qtimageformats.win64_mingw 
+qt.qt6.650.addons.qtserialport.android_arm64_v8a 
+qt.qt6.624.qtquicktimeline.android_armv7 
+qt.qt6.624.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt5.5152.qtcharts.win64_msvc2015_winrt_x64 
+qt.qt6.624.addons.qtwebview.android_armv7 
+qt.qt6.650.addons.qtlocation.android_x86_64 
+qt.qt6.632.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.650.qt5compat.android_arm64_v8a 
+qt.qt6.643.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.632.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtspeech.win64_mingw 
+qt.qt6.dev.qtshadertools.win64_mingw 
+qt.qt6.643.addons.qtmultimedia.android_armv7 
+qt.qt5.5152.qtdatavis3d.win64_msvc2019_winrt_x64 
+qt.qt6.632.addons.qtlottie.wasm_32 
+qt.qt6.650.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtwebchannel.win64_mingw 
+qt.qt6.650.addons.qtcharts.wasm_singlethread 
+qt.qt6.650.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.643.addons.qtwebsockets.android_x86_64 
+qt.qt6.643.addons.qtserialport.android_arm64_v8a 
+qt.qt6.643.addons.qthttpserver.win64_mingw 
+qt.qt6.624.addons.qt3d.android_x86 
+qt.qt6.624.qtquick3d.win64_mingw 
+qt.qt6.624.qtquick3d.android_arm64_v8a 
+qt.qt6.650.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtscxml.android_x86 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt5.5152.qtwebengine.win32_msvc2019 
+qt.qt6.dev.addons.qtinsighttracker.wasm_singlethread 
+qt.qt6.dev.addons.qtnetworkauth.android_x86_64 
+qt.qt6.dev.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.624.addons.qtwebsockets.android_x86 
+qt.qt6.632.addons.qtactiveqt.win64_mingw 
+qt.qt6.624.addons.qtdatavis3d.android_x86 
+qt.qt6.dev.addons.qtspeech.win64_mingw 
+qt.qt6.624.addons.qtwebchannel.wasm_32 
+qt.qt6.650.addons.qtquick3dphysics.android_x86 
+qt.qt5.5152.qtpurchasing.win64_msvc2015_winrt_x64 
+qt.qt6.632.addons.qtserialbus.android_x86_64 
+qt.qt6.650.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.624.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.643.qtquicktimeline.android_armv7 
+qt.qt6.624.addons.qtwebchannel.android_x86_64 
+qt.qt6.650.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.632.qtshadertools.win64_mingw 
+qt.qt6.624.addons.qtmultimedia.android_armv7 
+qt.qt6.632.addons.qtwebchannel.win64_mingw 
+qt.qt6.650.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt5.5152.qtlottie.wasm_32 
+qt.qt6.624.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.650.qt5compat.wasm_multithread 
+qt.qt6.650.qtquicktimeline.android_armv7 
+qt.qt6.dev.qtshadertools.wasm_singlethread 
+qt.qt6.650.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.624.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.650.qtquick3d.win64_msvc2019_64 
+qt.qt6.624.addons.qtimageformats.android_armv7 
+qt.qt6.624.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.650.addons.qtwebview.android_arm64_v8a 
+qt.qt6.650.addons.qtlocation.android_x86 
+qt.qt6.632.addons.qtwebsockets.win64_mingw 
+qt.qt6.632.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.624.qtshadertools.android_arm64_v8a 
+qt.qt6.dev.addons.qtconnectivity.android_x86_64 
+qt.qt6.624.addons.qtscxml.android_armv7 
+qt.qt6.632.addons.qt3d.android_armv7 
+qt.qt5.5152.qtlottie.win64_msvc2019_winrt_x64 
+qt.qt6.624.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtcharts.android_armv7 
+qt.qt6.632.qt5compat.win64_msvc2019_arm64 
+qt.qt5.5152.qtvirtualkeyboard.win64_msvc2015_64 
+qt.qt6.624.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.632.addons.qtscxml.android_armv7 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtlottie.android_x86_64 
+qt.qt6.643.addons.qtcharts.win64_mingw 
+qt.qt6.624.qtshadertools.win64_msvc2019_64 
+qt.qt6.632.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.643.addons.qtwebsockets.win64_mingw 
+qt.qt6.650.addons.qtgrpc.android_armv7 
+qt.qt6.dev.addons.qtserialport.android_armv7 
+qt.qt6.643.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.643.addons.qtwebview.android_x86_64 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.643.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.632.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtconnectivity.win64_mingw 
+qt.qt6.650.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.643.addons.qtquick3dphysics.android_x86 
+qt.qt6.632.addons.qtserialbus.win64_mingw 
+qt.qt6.643.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.624.addons.qtconnectivity.android_x86_64 
+qt.qt6.dev.qtshadertools.android_armv7 
+qt.qt6.dev.addons.qtserialbus.android_x86 
+qt.qt5.5152.qtquicktimeline.win64_msvc2019_winrt_x64 
+qt.qt6.dev.addons.qtwebsockets.wasm_singlethread 
+qt.qt6.624.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.624.qt5compat.wasm_32 
+qt.qt6.643.addons.qthttpserver.android_x86 
+qt.qt6.dev.addons.qtserialport.android_x86 
+qt.qt6.643.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.632.qtshadertools.android_x86_64 
+qt.qt6.624.addons.qtwebsockets.android_armv7 
+qt.qt6.dev.addons.qtwebsockets.android_x86_64 
+qt.qt6.650.addons.qtvirtualkeyboard.wasm_multithread 
+qt.qt5.5152.qtquicktimeline.win64_msvc2015_winrt_x64 
+qt.qt6.643.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.643.qtquick3d.win64_mingw 
+qt.qt5.5152.qtquicktimeline.wasm_32 
+qt.qt6.632.addons.qtdatavis3d.win64_mingw 
+qt.qt6.dev.addons.qtcharts.android_x86_64 
+qt.qt6.643.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt5.5152.debug_info.win32_msvc2019 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.650.addons.qthttpserver.win64_mingw 
+qt.qt6.643.addons.qtremoteobjects.android_x86 
+qt.qt6.dev.addons.qtlottie.android_armv7 
+qt.qt6.643.qtshadertools.android_x86 
+qt.qt6.dev.addons.qtimageformats.android_x86 
+qt.qt6.dev.addons.qthttpserver.wasm_multithread 
+qt.qt6.643.addons.qtwebview.android_arm64_v8a 
+qt.qt6.dev.addons.qtpositioning.win64_mingw 
+qt.qt5.5152.debug_info.win32_mingw81 
+qt.qt6.632.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.632.qtshadertools.win64_msvc2019_64 
+qt.qt6.624.addons.qtdatavis3d.wasm_32 
+qt.qt6.643.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.643.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtscxml.android_x86 
+qt.qt6.dev.addons.qtwebsockets.android_arm64_v8a 
+qt.qt5.5152.qtcharts.win64_msvc2019_winrt_x64 
+qt.qt6.650.addons.qtlocation.win64_mingw 
+qt.qt6.650.qtquick3d.android_x86 
+qt.qt6.624.addons.qtwebview.win64_mingw 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.650.addons.qtwebview.android_x86_64 
+qt.qt6.632.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.643.debug_info.win64_msvc2019_64 
+qt.qt6.643.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt5.5152.qtcharts.win32_mingw81 
+qt.qt6.624.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.dev.addons.qtpositioning.android_x86_64 
+qt.qt6.650.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.643.addons.qtpositioning.android_x86_64 
+qt.qt5.5152.qtwebglplugin.win64_msvc2015_64 
+qt.qt6.650.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.643.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.632.addons.qtsensors.android_arm64_v8a 
+qt.qt6.624.addons.qtdatavis3d.android_x86_64 
+qt.qt6.650.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.650.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.632.qt5compat.android_arm64_v8a 
+qt.qt6.650.addons.qtsensors.android_armv7 
+qt.qt6.643.addons.qt3d.android_x86 
+qt.qt6.dev.addons.qtmultimedia.android_x86_64 
+qt.qt6.650.addons.qtspeech.android_arm64_v8a 
+qt.qt6.650.addons.qtwebsockets.android_x86_64 
+qt.qt6.643.addons.qtwebchannel.wasm_32 
+qt.qt6.643.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.dev.qtquicktimeline.win64_mingw 
+qt.qt6.650.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.650.qtshadertools.win64_msvc2019_64 
+qt.qt5.5152.qtcharts.win32_msvc2019 
+qt.qt6.643.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtscxml.android_x86 
+qt.qt5.5152.qtnetworkauth.android 
+qt.qt5.5152.qtquicktimeline.win32_msvc2019 
+qt.qt6.624.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.632.addons.qtnetworkauth.android_x86 
+qt.qt6.624.addons.qtconnectivity.android_arm64_v8a 
+qt.qt6.632.addons.qtdatavis3d.android_armv7 
+qt.qt5.5152.qtpurchasing.win64_msvc2019_winrt_x64 
+qt.qt5.5152.qtwebglplugin.win64_msvc2019_64 
+qt.qt6.643.addons.qtconnectivity.android_x86 
+qt.qt6.643.addons.qtpositioning.android_x86 
+qt.qt6.643.addons.qtserialbus.android_x86_64 
+qt.qt6.643.addons.qtcharts.wasm_32 
+qt.qt6.632.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.650.addons.qtlanguageserver.win64_mingw 
+qt.qt6.624.qtshadertools.android_x86_64 
+qt.qt6.624.addons.qtconnectivity.android_x86 
+qt.qt6.632.addons.qt3d.android_x86 
+qt.qt6.650.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtnetworkauth.win64_mingw 
+qt.qt6.624.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtconnectivity.win64_mingw 
+qt.qt6.650.addons.qtnetworkauth.android_x86 
+qt.qt5.5152.qtwebengine.win64_msvc2019_64 
+qt.qt6.650.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebsockets.android_x86 
+qt.qt6.624.addons.qtcharts.win64_mingw 
+qt.qt6.624.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.643.addons.qtlottie.android_arm64_v8a 
+qt.qt6.650.addons.qtimageformats.wasm_singlethread 
+qt.qt6.624.addons.qtpositioning.win64_mingw 
+qt.qt6.632.addons.qtwebsockets.android_x86 
+qt.qt6.650.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.624.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.643.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.qtquick3d.android_armv7 
+qt.qt6.650.addons.qtlottie.android_x86 
+qt.qt6.dev.addons.qtmultimedia.win64_mingw 
+qt.qt6.632.addons.qtpositioning.android_x86_64 
+qt.qt6.650.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_x86_64 
+qt.qt6.643.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.650.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtserialbus.android_armv7 
+qt.qt6.643.addons.qtdatavis3d.wasm_32 
+qt.qt5.5152.qtcharts.win64_msvc2019_winrt_x86 
+qt.qt6.dev.addons.qtscxml.win64_mingw 
+qt.qt6.632.addons.qt3d.android_x86_64 
+qt.qt6.632.addons.qtcharts.win64_mingw 
+qt.qt6.643.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.632.addons.qtimageformats.wasm_32 
+qt.qt6.624.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.643.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtserialbus.android_armv7 
+qt.qt6.dev.qt5compat.win64_msvc2019_64 
+qt.qt6.624.addons.qtwebsockets.win64_mingw 
+qt.qt6.dev.addons.qtlottie.android_arm64_v8a 
+qt.qt6.643.addons.qthttpserver.wasm_32 
+qt.qt6.650.addons.qtremoteobjects.android_x86_64 
+qt.qt6.dev.addons.qtscxml.android_arm64_v8a 
+qt.qt5.5152.qtpurchasing.win64_msvc2015_winrt_armv7 
+qt.qt5.5152.qtnetworkauth.win64_msvc2019_winrt_x64 
+qt.qt6.643.addons.qthttpserver.android_x86_64 
+qt.qt6.650.addons.qtgrpc.android_x86 
+qt.qt6.650.addons.qtmultimedia.android_x86 
+qt.qt6.643.addons.qtremoteobjects.win64_mingw 
+qt.qt5.5152.qtpurchasing.win32_mingw81 
+qt.qt6.632.addons.qtpositioning.android_armv7 
+qt.qt6.dev.qtquick3d.win64_msvc2019_arm64 
+qt.qt5.5152.qtscript.win32_mingw81 
+qt.qt6.650.qt5compat.win64_msvc2019_64 
+qt.qt6.dev.qt5compat.win64_mingw 
+qt.qt6.643.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.dev.addons.qtscxml.wasm_singlethread 
+qt.qt6.624.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtimageformats.wasm_multithread 
+qt.qt6.643.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.650.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt5.5152.debug_info.win64_mingw81 
+qt.qt6.650.addons.qtwebchannel.wasm_singlethread 
+qt.qt6.624.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.650.addons.qtquickeffectmaker.win64_msvc2019_64 
+qt.qt6.dev.addons.qthttpserver.android_armv7 
+qt.qt6.643.addons.qtwebchannel.android_armv7 
+qt.qt6.643.addons.qtimageformats.android_x86 
+qt.qt5.5152.qtwebglplugin.wasm_32 
+qt.qt6.643.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.632.addons.qtlottie.android_armv7 
+qt.qt6.643.addons.qtdatavis3d.win64_mingw 
+qt.qt6.643.addons.qtscxml.android_x86 
+qt.qt6.650.qtshadertools.wasm_singlethread 
+qt.qt6.dev.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.650.qtquicktimeline.wasm_multithread 
+qt.qt6.dev.addons.qtgrpc.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.632.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtserialbus.android_x86 
+qt.qt6.dev.addons.qtimageformats.win64_mingw 
+qt.qt6.632.qtquicktimeline.android_armv7 
+qt.qt6.624.qt5compat.win64_mingw 
+qt.qt6.624.addons.qtimageformats.android_x86_64 
+qt.qt6.624.addons.qtlottie.wasm_32 
+qt.qt6.632.addons.qtserialport.android_arm64_v8a 
+qt.qt6.643.addons.qt3d.win64_msvc2019_64 
+qt.qt6.632.addons.qtwebchannel.android_arm64_v8a 
+qt.qt5.5152.debug_info.win64_msvc2015_64 
+qt.qt6.650.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.643.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.650.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.wasm_singlethread 
+qt.qt6.dev.addons.qtlottie.android_x86 
+qt.qt6.624.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.643.addons.qtcharts.android_arm64_v8a 
+qt.qt6.624.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt5.5152.qtquicktimeline.win32_mingw81 
+qt.qt6.632.addons.qtsensors.android_x86 
+qt.qt6.650.addons.qtlottie.android_arm64_v8a 
+qt.qt6.632.addons.qtimageformats.android_x86_64 
+qt.qt6.dev.addons.qtserialport.win64_mingw 
+qt.qt6.650.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.643.qtquick3d.android_armv7 
+qt.qt6.624.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.632.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.624.addons.qtwebsockets.wasm_32 
+qt.qt6.643.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.624.addons.qtsensors.android_arm64_v8a 
+qt.qt5.5152.qtnetworkauth.win64_msvc2019_winrt_x86 
+qt.qt6.dev.addons.qtsensors.android_armv7 
+qt.qt6.624.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.650.addons.qtgrpc.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.win64_mingw 
+qt.qt6.632.addons.qtwebsockets.android_armv7 
+qt.qt5.5152.qtquick3d.win32_mingw81 
+qt.qt6.643.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.wasm_multithread 
+qt.qt6.624.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.632.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.643.qt5compat.win64_mingw 
+qt.qt5.5152.qtnetworkauth.win32_mingw81 
+qt.qt6.632.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.650.qtshadertools.android_armv7 
+qt.qt6.650.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt5.5152.qtdatavis3d.win64_msvc2015_winrt_x64 
+qt.qt6.643.addons.qtwebchannel.android_x86 
+qt.qt6.632.addons.qtlottie.android_arm64_v8a 
+qt.qt6.643.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.643.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.624.addons.qtserialport.win64_mingw 
+qt.qt6.dev.addons.qtpositioning.android_armv7 
+qt.qt6.632.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.wasm_singlethread 
+qt.qt6.643.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.android_x86_64 
+qt.qt6.643.addons.qtcharts.android_x86_64 
+qt.qt6.dev.qtshadertools.wasm_multithread 
+qt.qt6.643.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtlottie.android_x86_64 
+qt.qt6.643.addons.qtspeech.android_x86_64 
+qt.qt6.643.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.650.addons.qtwebchannel.win64_mingw 
+qt.qt5.5152.qtquick3d.win64_msvc2019_64 
+qt.qt6.624.addons.qtserialport.android_arm64_v8a 
+qt.qt6.650.addons.qtscxml.win64_mingw 
+qt.qt6.650.addons.qtserialbus.android_armv7 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.624.addons.qtcharts.android_arm64_v8a 
+qt.qt6.632.qtquicktimeline.android_arm64_v8a 
+qt.qt6.650.addons.qtgrpc.win64_mingw 
+qt.qt5.5152.qtquick3d.win32_msvc2019 
+qt.qt6.632.addons.qtsensors.android_armv7 
+qt.qt5.5152.qtcharts.win64_msvc2015_64 
+qt.qt6.632.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.624.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.650.qtquick3d.android_arm64_v8a 
+qt.qt6.643.qtshadertools.win64_msvc2019_64 
+qt.qt6.624.addons.qt3d.win64_msvc2019_64 
+qt.qt6.632.qt5compat.win64_msvc2019_64 
+qt.qt5.5152.qtpurchasing.wasm_32 
+qt.qt6.624.qtquicktimeline.android_x86 
+qt.qt6.632.addons.qtdatavis3d.android_x86_64 
+qt.qt6.650.addons.qthttpserver.wasm_multithread 
+qt.qt6.624.addons.qtmultimedia.wasm_32 
+qt.qt6.632.qt5compat.wasm_32 
+qt.qt6.650.addons.qtsensors.android_x86_64 
+qt.qt6.650.addons.qtwebview.android_x86 
+qt.qt6.643.debug_info.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtsensors.android_x86_64 
+qt.qt6.624.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.643.addons.qtactiveqt.win64_mingw 
+qt.qt6.643.addons.qtquick3dphysics.android_armv7 
+qt.qt6.624.addons.qt3d.android_x86_64 
+qt.qt6.624.addons.qtimageformats.wasm_32 
+qt.qt6.dev.addons.qtimageformats.wasm_multithread 
+qt.qt6.624.addons.qtmultimedia.android_x86_64 
+qt.qt6.624.addons.qtlottie.android_armv7 
+qt.qt6.632.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qtspeech.android_armv7 
+qt.qt6.650.addons.qtinsighttracker.android_x86_64 
+qt.qt6.650.addons.qtpositioning.android_x86 
+qt.qt6.632.addons.qtcharts.android_armv7 
+qt.qt6.dev.qtquick3d.android_x86_64 
+qt.qt6.632.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.643.addons.qtpositioning.win64_mingw 
+qt.qt6.650.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.632.debug_info.win64_msvc2019_arm64 
+qt.qt5.5152.qtquicktimeline.win64_msvc2015_64 
+qt.qt6.650.qt5compat.android_x86_64 
+qt.qt6.650.addons.qtinsighttracker.wasm_singlethread 
+qt.qt6.dev.addons.qtlottie.win64_mingw 
+qt.qt6.643.qtquicktimeline.android_x86 
+qt.qt6.632.addons.qtscxml.win64_mingw 
+qt.qt6.643.addons.qtlanguageserver.win64_mingw 
+qt.qt6.632.addons.qtcharts.wasm_32 
+qt.qt6.dev.addons.qtconnectivity.android_arm64_v8a 
+qt.qt6.dev.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qtquick3dphysics.android_armv7 
+qt.qt6.650.addons.qtgrpc.android_arm64_v8a 
+qt.qt6.dev.addons.qtsensors.android_arm64_v8a 
+qt.qt6.643.addons.qthttpserver.win64_msvc2019_64 
+qt.qt6.643.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.624.qt5compat.android_x86 
+qt.qt6.624.addons.qtnetworkauth.android_armv7 
+qt.qt6.650.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qthttpserver.android_x86 
+qt.qt6.643.addons.qtwebview.win64_mingw 
+qt.qt6.dev.addons.qtinsighttracker.win64_mingw 
+qt.qt5.5152.qtscript.win64_msvc2015_64 
+qt.qt6.650.addons.qtlocation.android_arm64_v8a 
+qt.qt6.dev.addons.qtserialport.android_arm64_v8a 
+qt.qt6.624.addons.qtserialport.android_x86_64 
+qt.qt6.dev.addons.qtspeech.wasm_singlethread 
+qt.qt6.650.addons.qtactiveqt.win64_mingw 
+qt.qt5.5152.qtquick3d.android 
+qt.qt6.650.addons.qtspeech.android_x86_64 
+qt.qt6.632.addons.qtimageformats.android_x86 
+qt.qt6.dev.addons.qtconnectivity.android_armv7 
+qt.qt6.632.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.dev.qtquicktimeline.android_arm64_v8a 
+qt.qt6.650.addons.qt3d.win64_msvc2019_64 
+qt.qt5.5152.qtdatavis3d.win32_mingw81 
+qt.qt6.650.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.dev.qt5compat.android_armv7 
+qt.qt6.632.addons.qtserialport.win64_mingw 
+qt.qt5.5152.qtdatavis3d.win64_msvc2019_winrt_x86 
+qt.qt6.632.addons.qtconnectivity.android_arm64_v8a 
+qt.qt6.624.addons.qtmultimedia.win64_mingw 
+qt.qt6.650.addons.qtcharts.android_armv7 
+qt.qt6.dev.addons.qtcharts.android_arm64_v8a 
+qt.qt6.643.addons.qtconnectivity.android_armv7 
+qt.qt6.650.addons.qtinsighttracker.win64_msvc2019_arm64 
+qt.qt6.650.qt5compat.android_x86 
+qt.qt6.632.addons.qtlanguageserver.win64_mingw 
+qt.qt6.632.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtcharts.android_x86 
+qt.qt6.632.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.643.qtshadertools.wasm_32 
+qt.qt6.650.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlocation.android_arm64_v8a 
+qt.qt6.650.addons.qtinsighttracker.win64_msvc2019_64 
+qt.qt6.632.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtserialbus.android_x86 
+qt.qt6.dev.addons.qt3d.android_x86 
+qt.qt5.5152.qtnetworkauth.win64_msvc2015_winrt_armv7 
+qt.qt6.650.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.632.addons.qtserialbus.android_armv7 
+qt.qt5.5152.qtnetworkauth.win64_msvc2015_64 
+qt.qt6.643.qtquick3d.wasm_32 
+qt.qt6.643.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.650.addons.qtscxml.android_x86 
+qt.qt6.643.addons.qtsensors.android_x86 
+qt.qt6.650.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.650.addons.qthttpserver.wasm_singlethread 
+qt.qt6.632.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.650.addons.qtscxml.android_arm64_v8a 
+qt.qt6.632.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.643.addons.qtscxml.android_arm64_v8a 
+qt.qt6.624.qtshadertools.android_armv7 
+qt.qt6.624.addons.qtwebsockets.android_x86_64 
+qt.qt6.dev.addons.qtdatavis3d.wasm_multithread 
+qt.qt5.5152.qtcharts.win64_msvc2019_64 
+qt.qt6.dev.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.dev.addons.qtlocation.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtmultimedia.android_armv7 
+qt.qt6.624.addons.qtserialport.android_armv7 
+qt.qt6.643.addons.qtserialport.android_x86_64 
+qt.qt6.624.qtquick3d.android_armv7 
+qt.qt6.624.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtwebview.android_arm64_v8a 
+qt.qt6.624.addons.qtcharts.android_x86 
+qt.qt6.624.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.dev.debug_info.win64_mingw 
+qt.qt6.650.addons.qtspeech.android_x86 
+qt.qt6.632.qtshadertools.android_armv7 
+qt.qt6.643.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.624.addons.qt3d.win64_mingw 
+qt.qt6.650.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.643.addons.qtserialport.win64_mingw 
+qt.qt6.dev.addons.qtspeech.android_x86 
+qt.qt6.624.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.650.addons.qtscxml.android_armv7 
+qt.qt5.5152.qtquick3d.win64_msvc2015_64 
+qt.qt6.643.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.632.qt5compat.win64_mingw 
+qt.qt6.632.addons.qtremoteobjects.android_armv7 
+qt.qt6.dev.qtquick3d.wasm_singlethread 
+qt.qt6.dev.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.632.addons.qtscxml.android_arm64_v8a 
+qt.qt6.624.addons.qtpositioning.android_x86 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.643.addons.qtspeech.win64_mingw 
+qt.qt5.5152.qtpurchasing.win64_msvc2015_64 
+qt.qt6.650.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.650.addons.qtgrpc.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_multithread 
+qt.qt6.643.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtserialbus.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtsensors.win64_mingw 
+qt.qt6.650.addons.qtpositioning.android_x86_64 
+qt.qt6.643.addons.qtlottie.wasm_32 
+qt.qt6.dev.addons.qtmultimedia.win64_msvc2019_64 
+qt.qt6.643.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtnetworkauth.win64_mingw 
+qt.qt6.643.qtquicktimeline.wasm_32 
+qt.qt6.dev.addons.qtnetworkauth.android_armv7 
+qt.qt6.632.qtquicktimeline.win64_msvc2019_arm64 
+qt.qt6.624.qtquick3d.android_x86 
+qt.qt6.dev.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt5.5152.qtnetworkauth.wasm_32 
+qt.qt6.650.addons.qtwebview.win64_mingw 
+qt.qt6.643.addons.qtconnectivity.android_x86_64 
+qt.qt6.650.addons.qtmultimedia.android_x86_64 
+qt.qt6.624.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.624.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtcharts.wasm_multithread 
+qt.qt6.643.addons.qtremoteobjects.android_armv7 
+qt.qt5.5152.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.dev.addons.qtscxml.android_armv7 
+qt.qt6.dev.addons.qtlocation.android_x86 
+qt.qt6.643.addons.qt3d.win64_mingw 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.632.addons.qtwebchannel.wasm_32 
+qt.qt6.632.debug_info.win64_msvc2019_64 
+qt.qt6.dev.qtshadertools.android_arm64_v8a 
+qt.qt6.643.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.650.addons.qtimageformats.android_x86_64 
+qt.qt5.5152.qtdatavis3d.win64_msvc2015_64 
+qt.qt6.dev.addons.qtmultimedia.wasm_singlethread 
+qt.qt6.dev.addons.qtwebview.android_x86_64 
+qt.qt6.643.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt5.5152.qtscript.win64_msvc2019_64 
+qt.qt6.632.addons.qtdatavis3d.android_x86 
+qt.qt6.624.qtshadertools.win64_mingw 
+qt.qt6.650.addons.qtimageformats.win64_mingw 
+qt.qt5.5152.qtcharts.win64_mingw81 
+qt.qt6.643.addons.qtdatavis3d.android_armv7 
+qt.qt6.624.addons.qtwebview.android_x86 
+qt.qt6.650.addons.qtinsighttracker.android_x86 
+qt.qt5.5152.qtlottie.win64_msvc2015_64 
+qt.qt6.632.addons.qtwebchannel.android_x86_64 
+qt.qt6.dev.addons.qtremoteobjects.android_x86_64 
+qt.qt6.624.addons.qtlottie.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.android_x86_64 
+qt.qt6.dev.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.643.addons.qtserialbus.android_x86 
+qt.qt6.650.addons.qtpositioning.android_armv7 
+qt.qt6.643.addons.qtmultimedia.android_x86 
+qt.qt6.dev.addons.qtwebview.android_arm64_v8a 
+qt.qt6.643.addons.qtquick3dphysics.android_arm64_v8a 
+qt.qt6.632.addons.qtnetworkauth.android_x86_64 
+qt.qt6.650.qtquick3d.wasm_singlethread 
+qt.qt6.dev.addons.qtwebview.android_x86 
+qt.qt6.632.qt5compat.android_x86 
+qt.qt6.dev.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.dev.qtquicktimeline.wasm_multithread 
+qt.qt6.632.addons.qtvirtualkeyboard.wasm_32 
+qt.qt5.5152.qtlottie.win64_msvc2019_winrt_armv7 
+qt.qt6.dev.qtshadertools.android_x86 
+qt.qt6.624.addons.qtremoteobjects.android_x86 
+qt.qt5.5152.qtlottie.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.android_x86_64 
+qt.qt6.650.addons.qthttpserver.android_x86 
+qt.qt6.632.addons.qtconnectivity.android_armv7 
+qt.qt6.643.addons.qtmultimedia.wasm_32 
+qt.qt5.5152.qtnetworkauth.win64_msvc2015_winrt_x64 
+qt.qt6.650.addons.qthttpserver.android_armv7 
+qt.qt6.624.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.643.addons.qtpositioning.android_armv7 
+qt.qt6.624.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.dev.addons.qtwebsockets.android_armv7 
+qt.qt6.643.addons.qthttpserver.android_armv7 
+qt.qt6.dev.addons.qthttpserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qthttpserver.android_arm64_v8a 
+qt.qt6.643.addons.qtwebsockets.wasm_32 
+qt.qt6.632.addons.qtnetworkauth.android_armv7 
+qt.qt6.632.addons.qt3d.win64_mingw 
+qt.qt6.643.qtquick3d.android_x86 
+qt.qt6.dev.addons.qtserialbus.android_arm64_v8a 
+qt.qt6.624.addons.qtnetworkauth.android_x86 
+qt.qt5.5152.qtdatavis3d.android 
+qt.qt6.643.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.addons.qtlocation.android_armv7 
+qt.qt6.dev.addons.qtactiveqt.win64_mingw 
+qt.qt6.632.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.643.qt5compat.android_x86 
+qt.qt6.dev.addons.qtwebsockets.win64_mingw 
+qt.qt6.650.addons.qthttpserver.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.650.addons.qtmultimedia.android_armv7 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_64 
+qt.qt6.dev.addons.qtinsighttracker.win64_msvc2019_arm64 
+qt.qt6.650.qtquicktimeline.wasm_singlethread 
+qt.qt5.5152.qtscript.win64_mingw81 
+qt.qt6.dev.qt5compat.android_x86 
+qt.qt6.dev.addons.qtwebsockets.wasm_multithread 
+qt.qt6.dev.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.650.qtshadertools.android_x86 
+qt.qt6.643.addons.qtscxml.android_x86_64 
+qt.qt6.624.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.650.addons.qtsensors.android_arm64_v8a 
+qt.qt6.632.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtremoteobjects.android_armv7 
+qt.qt6.624.addons.qtcharts.android_x86_64 
+qt.qt6.632.addons.qtwebview.android_x86_64 
+qt.qt6.dev.addons.qtgrpc.android_x86_64 
+qt.qt6.624.addons.qtmultimedia.android_x86 
+qt.qt6.643.addons.qtsensors.android_armv7 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtgrpc.android_armv7 
+qt.qt6.650.addons.qtsensors.win64_msvc2019_64 
+qt.qt5.5152.qtscript.wasm_32 
+qt.qt6.650.addons.qtwebchannel.android_x86_64 
+qt.qt6.650.addons.qtinsighttracker.win64_mingw 
+qt.qt6.643.addons.qtnetworkauth.android_x86_64 
+qt.qt6.632.addons.qtconnectivity.android_x86_64 
+qt.qt6.624.addons.qtvirtualkeyboard.android_arm64_v8a 
+qt.qt6.624.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtcharts.wasm_multithread 
+qt.qt6.632.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.632.addons.qtscxml.wasm_32 
+qt.qt5.5152.qtnetworkauth.win32_msvc2019 
+qt.qt6.643.addons.qtnetworkauth.win64_mingw 
+qt.qt6.643.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtwebsockets.win64_mingw 
+qt.qt6.650.addons.qtdatavis3d.wasm_multithread 
+qt.qt6.624.qtquicktimeline.win64_mingw 
+qt.qt6.650.addons.qtquick3dphysics.android_x86_64 
+qt.qt6.643.addons.qtvirtualkeyboard.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtimageformats.android_armv7 
+qt.qt6.643.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.650.debug_info.win64_msvc2019_64 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.643.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.dev.addons.qtspeech.android_arm64_v8a 
+qt.qt6.650.addons.qtspeech.wasm_singlethread 
+qt.qt6.dev.addons.qtlocation.win64_mingw 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_64 
+qt.qt6.624.addons.qtserialbus.android_x86 
+qt.qt6.650.addons.qtserialport.android_x86 
+qt.qt6.624.debug_info.win64_msvc2019_arm64 
+qt.qt5.5152.debug_info.win64_msvc2015_winrt_armv7 
+qt.qt6.650.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.650.qtquick3d.wasm_multithread 
+qt.qt6.dev.addons.qtwebsockets.win64_msvc2019_64 
+qt.qt6.624.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtwebview.win64_msvc2019_64 
+qt.qt6.650.addons.qtcharts.android_arm64_v8a 
+qt.qt6.650.addons.qtcharts.win64_mingw 
+qt.qt6.643.addons.qtmultimedia.android_x86_64 
+qt.qt6.650.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.wasm_singlethread 
+qt.qt6.624.addons.qtimageformats.win64_mingw 
+qt.qt6.650.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.632.addons.qtremoteobjects.android_x86 
+qt.qt6.dev.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt5.5152.qtpurchasing.win64_mingw81 
+qt.qt6.643.addons.qtwebchannel.android_x86_64 
+qt.qt6.650.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_64 
+qt.qt6.dev.addons.qtgrpc.win64_mingw 
+qt.qt6.650.addons.qtspeech.wasm_multithread 
+qt.qt6.624.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt5.5152.qtscript.android 
+qt.qt6.624.addons.qtscxml.android_arm64_v8a 
+qt.qt6.650.addons.qtnetworkauth.android_armv7 
+qt.qt6.643.qt5compat.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtserialport.android_x86_64 
+qt.qt6.650.addons.qtlottie.wasm_singlethread 
+qt.qt6.643.addons.qtserialport.android_x86 
+qt.qt6.650.qtshadertools.wasm_multithread 
+qt.qt6.650.addons.qtwebsockets.android_x86 
+qt.qt6.632.addons.qtremoteobjects.android_arm64_v8a 
+qt.qt6.650.addons.qtserialport.win64_mingw 
+qt.qt6.643.addons.qtspeech.android_x86 
+qt.qt6.624.addons.qtwebchannel.win64_mingw 
+qt.qt5.5152.qtcharts.android 
+qt.qt6.632.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.643.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.650.addons.qtinsighttracker.android_arm64_v8a 
+qt.qt6.dev.addons.qtlottie.wasm_multithread 
+qt.qt5.5152.qtnetworkauth.win64_msvc2019_winrt_armv7 
+qt.qt5.5152.qtquicktimeline.win64_msvc2019_winrt_x86 
+qt.qt6.650.debug_info.win64_mingw 
+qt.qt6.dev.qtquicktimeline.android_armv7 
+qt.qt6.624.addons.qtwebchannel.android_armv7 
+qt.qt6.dev.addons.qtnetworkauth.android_x86 
+qt.qt6.624.addons.qtwebchannel.android_x86 
+qt.qt6.650.addons.qt3d.android_x86_64 
+qt.qt6.632.addons.qtwebchannel.android_x86 
+qt.qt6.650.qtquicktimeline.android_x86 
+qt.qt6.650.addons.qtconnectivity.android_arm64_v8a 
+qt.qt6.650.addons.qtgrpc.wasm_multithread 
+qt.qt6.dev.qt5compat.wasm_multithread 
+qt.qt6.632.addons.qtcharts.android_arm64_v8a 
+qt.qt6.650.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtremoteobjects.android_armv7 
+qt.qt6.650.addons.qtmultimedia.wasm_multithread 
+qt.qt6.624.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.632.qtquick3d.android_x86 
+qt.qt6.632.qtshadertools.wasm_32 
+qt.qt6.dev.addons.qtconnectivity.win64_mingw 
+qt.qt6.650.addons.qtlottie.wasm_multithread 
+qt.qt6.624.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.643.addons.qtimageformats.android_armv7 
+qt.qt6.650.addons.qtremoteobjects.win64_mingw 
+qt.qt6.624.addons.qtsensors.android_x86_64 
+qt.qt6.643.addons.qtsensors.win64_mingw 
+qt.qt6.643.addons.qtvirtualkeyboard.wasm_32 
+qt.qt6.632.addons.qtwebview.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtlocation.win64_msvc2019_arm64 
+qt.qt6.643.qtshadertools.android_arm64_v8a 
+qt.qt6.632.addons.qtsensors.win64_msvc2019_64 
+qt.qt6.624.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.650.qt5compat.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.650.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.650.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.qt5compat.wasm_singlethread 
+qt.qt6.dev.qt5compat.android_x86_64 
+qt.qt6.643.addons.qtlottie.android_x86 
+qt.qt6.643.qtquick3d.android_x86_64 
+qt.qt6.624.addons.qtwebview.android_arm64_v8a 
+qt.qt6.dev.addons.qtsensors.win64_msvc2019_arm64 
+qt.qt6.632.qtquick3d.win64_mingw 
+qt.qt6.dev.addons.qt3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.643.addons.qtquick3dphysics.wasm_32 
+qt.qt6.624.addons.qtnetworkauth.android_x86_64 
+qt.qt6.dev.addons.qtcharts.wasm_singlethread 
+qt.qt6.650.addons.qtlocation.android_armv7 
+qt.qt6.632.qtshadertools.android_arm64_v8a 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtvirtualkeyboard.wasm_32 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.632.addons.qtremoteobjects.win64_mingw 
+qt.qt6.643.addons.qtdatavis3d.android_x86_64 
+qt.qt6.624.addons.qtconnectivity.win64_mingw 
+qt.qt6.643.qt5compat.android_armv7 
+qt.qt6.650.addons.qtnetworkauth.android_x86_64 
+qt.qt6.643.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.android_x86_64 
+qt.qt6.632.addons.qtlottie.win64_msvc2019_64 
+qt.qt6.650.addons.qt3d.android_armv7 
+qt.qt6.643.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtnetworkauth.win64_msvc2019_arm64 
+qt.qt6.632.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_singlethread 
+qt.qt6.dev.debug_info.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.643.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.624.qtquicktimeline.wasm_32 
+qt.qt6.650.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.650.qtquick3d.android_armv7 
+qt.qt6.632.qtquick3d.android_x86_64 
+qt.qt6.632.addons.qtserialport.android_x86 
+qt.qt6.dev.addons.qtlanguageserver.win64_mingw 
+qt.qt6.650.addons.qtsensors.win64_mingw 
+qt.qt5.5152.qtdatavis3d.wasm_32 
+qt.qt6.632.addons.qtwebsockets.wasm_32 
+qt.qt5.5152.qtdatavis3d.win64_msvc2019_winrt_armv7 
+qt.qt6.dev.addons.qt3d.android_arm64_v8a 
+qt.qt6.624.addons.qtnetworkauth.android_arm64_v8a 
+qt.qt6.624.addons.qtdatavis3d.win64_mingw 
+qt.qt6.643.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.624.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.624.addons.qt3d.android_armv7 
+qt.qt6.dev.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtmultimedia.android_x86 
+qt.qt6.624.qt5compat.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtinsighttracker.android_x86_64 
+qt.qt6.632.addons.qtwebsockets.android_x86_64 
+qt.qt6.624.addons.qtcharts.wasm_32 
+qt.qt6.643.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt6.dev.qtquicktimeline.android_x86 
+qt.qt6.dev.addons.qtsensors.android_x86 
+qt.qt6.650.addons.qtspeech.android_armv7 
+qt.qt6.dev.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtinsighttracker.android_arm64_v8a 
+qt.qt5.5152.debug_info.win64_msvc2019_winrt_armv7 
+qt.qt6.624.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.632.qtquicktimeline.win64_mingw 
+qt.qt6.dev.addons.qtquick3dphysics.android_x86_64 
+qt.qt6.643.addons.qtimageformats.android_arm64_v8a 
+qt.qt6.632.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtserialbus.win64_mingw 
+qt.qt5.5152.qtvirtualkeyboard.win32_mingw81 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.dev.addons.qtquick3dphysics.wasm_multithread 
+qt.qt6.632.addons.qtdatavis3d.wasm_32 
+qt.qt6.632.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebchannel.wasm_multithread 
+qt.qt6.643.addons.qtwebsockets.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtmultimedia.wasm_multithread 
+qt.qt6.632.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.624.addons.qtpositioning.android_arm64_v8a 
+qt.qt6.dev.addons.qtpositioning.android_x86 
+qt.qt6.650.addons.qtgrpc.android_x86_64 
+qt.qt6.632.qtquicktimeline.wasm_32 
+qt.qt6.632.addons.qtscxml.android_x86_64 
+qt.qt6.643.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt5.5152.qtcharts.wasm_32 
+qt.qt6.dev.addons.qtscxml.android_x86_64 
+qt.qt6.632.qtquicktimeline.win64_msvc2019_64 
+qt.qt6.632.qtquicktimeline.android_x86 
+qt.qt6.624.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.dev.addons.qthttpserver.wasm_singlethread 
+qt.qt5.5152.qtnetworkauth.win64_msvc2019_64 
+qt.qt6.650.addons.qtimageformats.android_x86 
+qt.qt6.632.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.dev.addons.qtinsighttracker.android_x86 
+qt.qt6.632.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt5.5152.qtwebglplugin.win64_mingw81 
+qt.qt6.624.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.dev.qtquick3d.android_arm64_v8a 
+qt.qt6.650.addons.qt3d.win64_mingw 
+qt.qt6.650.addons.qtmultimedia.wasm_singlethread 
+qt.qt6.632.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.632.qt5compat.android_x86_64 
+qt.qt6.650.addons.qtconnectivity.android_x86 
+qt.qt6.624.addons.qtremoteobjects.android_x86_64 
+qt.qt6.dev.addons.qtserialport.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtpositioning.android_armv7 
+qt.qt6.624.debug_info.win64_msvc2019_64 
+qt.qt6.650.addons.qt3d.android_arm64_v8a 
+qt.qt6.632.qt5compat.android_armv7 
+qt.qt5.5152.qtvirtualkeyboard.win32_msvc2019 
+qt.qt6.643.qtquicktimeline.win64_mingw 
+qt.qt6.650.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtwebchannel.android_armv7 
+qt.qt6.650.addons.qtremoteobjects.win64_msvc2019_64 
+qt.qt6.650.addons.qtremoteobjects.android_x86 
+qt.qt6.632.qtshadertools.android_x86 
+qt.qt6.632.addons.qtlottie.win64_mingw 
+qt.qt6.650.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.632.addons.qtconnectivity.android_x86 
+qt.qt5.5152.debug_info.win64_msvc2019_winrt_x86 
+qt.qt6.624.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.643.qtshadertools.win64_mingw 
+qt.qt6.632.qtquick3d.wasm_32 
+qt.qt6.632.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.650.addons.qtgrpc.wasm_singlethread 
+qt.qt6.624.addons.qtimageformats.android_x86 
+qt.qt6.650.addons.qtquick3dphysics.android_armv7 
+qt.qt6.643.addons.qtimageformats.android_x86_64 
+qt.qt6.632.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.624.addons.qtsensors.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.wasm_singlethread 
+qt.qt5.5152.qtscript.win32_msvc2019 
+qt.qt6.643.addons.qtspeech.android_arm64_v8a 
+qt.qt6.643.addons.qtremoteobjects.android_x86_64 
+qt.qt6.624.qtquicktimeline.android_arm64_v8a 
+qt.qt5.5152.qtlottie.win64_msvc2015_winrt_x64 
+qt.qt6.643.qtquicktimeline.android_arm64_v8a 
+qt.qt5.5152.qtcharts.win64_msvc2015_winrt_armv7 
+qt.qt6.650.addons.qtnetworkauth.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtspeech.wasm_32 
+qt.qt6.624.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.643.addons.qtscxml.win64_mingw 
+qt.qt6.650.addons.qthttpserver.android_x86_64 
+qt.qt6.643.addons.qtmultimedia.win64_msvc2019_arm64 
+qt.qt6.650.addons.qthttpserver.win64_msvc2019_64 
+qt.qt5.5152.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.632.qtquick3d.win64_msvc2019_arm64 
+qt.qt6.643.qt5compat.android_x86_64 
+qt.qt6.650.addons.qtlocation.win64_msvc2019_64 
+qt.qt5.5152.qtlottie.win32_msvc2019 
+qt.qt6.632.addons.qtvirtualkeyboard.android_x86 
+qt.qt6.632.addons.qtimageformats.win64_msvc2019_64 
+qt.qt5.5152.debug_info.win64_msvc2019_64 
+qt.qt5.5152.qtdatavis3d.win64_mingw81 
+qt.qt5.5152.qtlottie.win32_mingw81 
+qt.qt5.5152.qtcharts.win64_msvc2019_winrt_armv7 
+qt.qt6.632.addons.qtcharts.android_x86_64 
+qt.qt6.624.addons.qtremoteobjects.win64_mingw 
+qt.qt6.650.addons.qtscxml.android_x86_64 
+qt.qt6.624.addons.qtcharts.android_armv7 
+qt.qt5.5152.qtpurchasing.win64_msvc2019_winrt_x86 
+qt.qt6.632.addons.qtwebchannel.android_armv7 
+qt.qt6.650.addons.qtdatavis3d.wasm_singlethread 
+qt.qt6.650.addons.qtlottie.android_armv7 
+qt.qt6.650.addons.qtdatavis3d.win64_mingw 
+qt.qt6.624.qt5compat.android_x86_64 
+qt.qt6.dev.addons.qtsensors.win64_mingw 
+qt.qt6.dev.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt6.632.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt5.5152.debug_info.win64_msvc2019_winrt_x64 
+qt.qt6.643.addons.qt3d.android_x86_64 
+qt.qt6.dev.addons.qtdatavis3d.win64_mingw 
+qt.qt6.643.addons.qtimageformats.win64_msvc2019_64 
+qt.qt6.643.addons.qtvirtualkeyboard.android_armv7 
+qt.qt6.650.addons.qtscxml.wasm_multithread 
+qt.qt6.632.addons.qtvirtualkeyboard.win64_msvc2019_64 
+qt.qt6.632.addons.qtremoteobjects.android_x86_64 
+qt.qt6.643.addons.qtlottie.win64_mingw 
+qt.qt6.650.qtquicktimeline.android_arm64_v8a 
+qt.qt6.650.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.dev.qtshadertools.android_x86_64 
+qt.qt6.dev.addons.qtconnectivity.android_x86 
+qt.qt6.dev.addons.qtwebchannel.android_x86_64 
+qt.qt6.643.addons.qtmultimedia.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.win64_mingw 
+qt.qt6.650.addons.qt3d.android_x86 
+qt.qt6.643.qtshadertools.android_x86_64 
+qt.qt6.dev.addons.qtmultimedia.android_armv7 
+qt.qt6.624.qt5compat.win64_msvc2019_64 
+qt.qt6.632.addons.qtconnectivity.win64_mingw 
+qt.qt6.dev.addons.qtgrpc.win64_msvc2019_64 
+qt.qt6.632.addons.qtimageformats.win64_mingw 
+qt.qt6.650.qtquicktimeline.win64_mingw 
+qt.qt6.632.addons.qt3d.win64_msvc2019_64 
+qt.qt6.643.addons.qtnetworkauth.android_x86 
+qt.qt5.5152.qtdatavis3d.win32_msvc2019 
+qt.qt6.643.addons.qtwebengine.win64_msvc2019_64 
+qt.qt6.624.addons.qtscxml.android_x86_64 
+qt.qt6.632.addons.qtlottie.android_x86 
+qt.qt6.650.addons.qtquick3dphysics.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtlottie.win64_msvc2019_arm64 
+qt.qt6.650.qtshadertools.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtnetworkauth.android_armv7 
+qt.qt6.632.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.dev.addons.qtmultimedia.android_arm64_v8a 
+qt.qt6.624.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.650.addons.qtwebsockets.wasm_multithread 
+qt.qt6.dev.addons.qtserialbus.win64_mingw 
+qt.qt6.dev.qtshadertools.win64_msvc2019_arm64 
+qt.qt5.5152.qtlottie.win64_msvc2019_winrt_x86 
+qt.qt6.650.addons.qtremoteobjects.android_armv7 
+qt.qt6.632.addons.qtmultimedia.wasm_32 
+qt.qt6.650.qtshadertools.android_x86_64 
+qt.qt6.643.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.632.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.624.addons.qtsensors.android_armv7 
+qt.qt5.5152.qtquicktimeline.win64_mingw81 
+qt.qt6.650.addons.qtconnectivity.win64_msvc2019_64 
+qt.qt6.624.qtquick3d.android_x86_64 
+qt.qt6.dev.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.dev.addons.qtserialbus.android_x86_64 
+qt.qt6.650.addons.qtimageformats.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtserialport.android_armv7 
+qt.qt5.5152.qtdatavis3d.win64_msvc2015_winrt_armv7 
+qt.qt6.dev.addons.qtserialport.android_x86_64 
+qt.qt6.643.addons.qtwebsockets.android_armv7 
+qt.qt6.650.addons.qtquick3dphysics.wasm_multithread 
+qt.qt6.dev.addons.qtquickeffectmaker.win64_msvc2019_64 
+qt.qt6.650.addons.qtlottie.win64_mingw 
+qt.qt6.650.addons.qtvirtualkeyboard.wasm_singlethread 
+qt.qt6.624.addons.qtactiveqt.win64_mingw 
+qt.qt6.dev.addons.qtwebchannel.android_x86 
+qt.qt6.650.addons.qtserialbus.android_x86_64 
+qt.qt6.632.addons.qt3d.android_arm64_v8a 
+qt.qt6.624.qtshadertools.android_x86 
+qt.qt6.632.addons.qtwebview.win64_msvc2019_64 
+qt.qt5.5152.qtlottie.android 
+qt.qt6.dev.addons.qtwebview.android_armv7 
+qt.qt6.dev.addons.qthttpserver.android_x86_64 
+qt.qt5.5152.debug_info.win64_msvc2015_winrt_x64 
+qt.qt6.650.addons.qtactiveqt.win64_msvc2019_arm64 
+qt.qt5.5152.qtpurchasing.win64_msvc2019_winrt_armv7 
+qt.qt6.624.qtshadertools.wasm_32 
+qt.qt6.632.addons.qtconnectivity.win64_msvc2019_arm64 
+qt.qt5.5152.qtlottie.win64_msvc2015_winrt_armv7 
+qt.qt6.dev.addons.qtscxml.wasm_multithread 
+qt.qt6.dev.qtquick3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtremoteobjects.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtnetworkauth.win64_mingw 
+qt.qt6.624.addons.qtserialport.android_x86 
+qt.qt6.643.qt5compat.win64_msvc2019_64 
+qt.qt6.624.addons.qtlottie.android_x86 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtwebchannel.android_armv7 
+qt.qt6.624.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.643.addons.qtwebchannel.win64_msvc2019_64 
+qt.qt6.624.qt5compat.android_arm64_v8a 
+qt.qt6.dev.addons.qtwebview.win64_mingw 
+qt.qt6.650.addons.qtquick3dphysics.wasm_singlethread 
+qt.qt6.643.addons.qt3d.win64_msvc2019_arm64 
+qt.qt6.643.addons.qt3d.android_armv7 
+qt.qt5.5152.qtpurchasing.android 
+qt.qt5.5152.qtvirtualkeyboard.wasm_32 
+qt.qt5.5152.qtnetworkauth.win64_mingw81 
+qt.qt6.632.addons.qtvirtualkeyboard.android_armv7 
+qt.qt5.5152.qtpurchasing.win64_msvc2019_64 
+qt.qt6.624.addons.qtsensors.android_x86 
+qt.qt6.643.addons.qtwebview.android_x86 
+qt.qt6.dev.qt5compat.android_arm64_v8a 
+qt.qt5.5152.qtwebglplugin.win32_msvc2019 
+qt.qt6.624.addons.qt3d.android_arm64_v8a 
+qt.qt6.dev.addons.qtremoteobjects.win64_mingw 
+qt.qt6.643.addons.qtlottie.android_x86_64 
+qt.qt6.650.addons.qtwebchannel.wasm_multithread 
+qt.qt6.643.addons.qtscxml.android_armv7 
+qt.qt6.650.qt5compat.wasm_singlethread 
+qt.qt6.632.addons.qtsensors.android_x86_64 
+qt.qt6.624.addons.qtscxml.wasm_32 
+qt.qt6.632.addons.qtpositioning.android_x86 
+qt.qt6.650.addons.qtinsighttracker.android_armv7 
+qt.qt6.dev.addons.qtvirtualkeyboard.wasm_singlethread 
+qt.qt6.650.addons.qtsensors.android_x86 
+qt.qt6.650.addons.qtwebview.android_armv7 
+qt.qt6.643.addons.qtscxml.wasm_32 
+qt.qt6.643.addons.qtlottie.android_armv7 
+qt.qt6.624.addons.qtscxml.win64_mingw 
+qt.qt6.650.addons.qtcharts.android_x86 
+qt.qt6.dev.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.624.addons.qtlottie.android_arm64_v8a 
+qt.qt6.dev.addons.qtinsighttracker.android_armv7 
+qt.qt6.dev.addons.qtsensors.android_x86_64 
+qt.qt6.650.qtquick3d.android_x86_64 
+qt.qt6.dev.qtquick3d.android_x86 
+qt.qt6.643.addons.qtspeech.android_armv7 
+qt.qt6.dev.addons.qtcharts.android_armv7 
+qt.qt6.643.addons.qtquick3dphysics.win64_msvc2019_64 
+qt.qt6.632.addons.qtscxml.win64_msvc2019_arm64 
+qt.qt6.643.addons.qtwebchannel.android_arm64_v8a 
+qt.qt6.650.addons.qtscxml.wasm_singlethread 
+qt.qt6.624.qtquick3d.win64_msvc2019_64 
+qt.qt6.624.debug_info.win64_mingw 
+qt.qt6.624.addons.qtconnectivity.android_armv7 
+qt.qt6.dev.addons.qtlottie.android_x86_64 
+qt.qt6.643.addons.qtdatavis3d.android_x86 
+qt.qt6.dev.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.643.addons.qtsensors.android_arm64_v8a 
+qt.qt6.dev.addons.qtinsighttracker.wasm_multithread 
+qt.qt6.650.addons.qtdatavis3d.android_x86_64 
+qt.qt5.5152.qtvirtualkeyboard.win64_mingw81 
+qt.qt6.650.debug_info.win64_msvc2019_arm64 
+qt.qt6.650.addons.qtdatavis3d.win64_msvc2019_64 
+qt.qt6.dev.addons.qtcharts.win64_mingw 
+qt.qt6.643.addons.qtimageformats.wasm_32 
+qt.qt6.632.addons.qtcharts.win64_msvc2019_64 
+qt.qt6.643.addons.qtquick3dphysics.android_x86_64 
+qt.qt5.5152.qtlottie.win64_mingw81 
+qt.qt6.643.addons.qtwebsockets.android_x86 
+qt.qt6.632.addons.qtpdf.win64_msvc2019_64 
+qt.qt6.650.addons.qtwebsockets.android_arm64_v8a 
+qt.qt6.650.addons.qtconnectivity.android_armv7 
+qt.qt6.632.addons.qtserialport.win64_msvc2019_64 
+qt.qt6.dev.debug_info.win64_msvc2019_64 
+qt.qt6.dev.addons.qtremoteobjects.android_x86 
+qt.qt6.624.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.624.addons.qtwebview.android_x86_64 
+qt.qt6.650.qtquick3d.win64_mingw 
+qt.qt6.632.addons.qtmultimedia.android_x86 
+qt.qt6.643.qtquick3d.android_arm64_v8a 
+qt.qt6.643.addons.qtconnectivity.android_arm64_v8a 
+qt.qt6.dev.addons.qtimageformats.android_armv7 
+qt.qt6.624.qtquick3d.wasm_32 
+qt.qt6.dev.addons.qtcharts.win64_msvc2019_arm64 
+qt.qt5.5152.qtquicktimeline.win64_msvc2015_winrt_armv7 
+qt.qt6.632.qtquick3d.android_armv7 
+qt.qt6.dev.addons.qthttpserver.win64_mingw 
+qt.qt6.dev.addons.qtdatavis3d.android_x86 
+qt.qt6.632.addons.qtwebview.win64_mingw 
+qt.qt6.650.addons.qtwebchannel.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.643.addons.qtserialport.android_armv7 
+qt.qt6.dev.addons.qtspeech.win64_msvc2019_arm64 
+qt.qt6.dev.addons.qtlocation.android_x86_64 
+qt.qt6.650.addons.qtvirtualkeyboard.android_x86_64 
+qt.qt6.643.addons.qtlanguageserver.win64_msvc2019_64 
+qt.qt6.632.addons.qtpositioning.win64_mingw 
+qt.qt6.624.addons.qtlottie.android_x86_64 
+qt.qt6.650.addons.qtserialbus.win64_msvc2019_64 
+qt.qt6.dev.addons.qtdatavis3d.android_armv7 
+qt.qt6.643.qt5compat.android_arm64_v8a 
+qt.qt6.650.addons.qtdatavis3d.android_arm64_v8a 
+qt.qt6.624.addons.qtdatavis3d.android_armv7 
+qt.qt6.650.addons.qtdatavis3d.android_x86 
+qt.qt6.650.qt5compat.win64_mingw 
+qt.qt6.650.addons.qtpositioning.win64_msvc2019_64 
+qt.qt6.624.addons.qtactiveqt.win64_msvc2019_64 
+qt.qt6.dev.addons.qt3d.android_armv7 
+qt.qt6.650.qtshadertools.android_arm64_v8a 
+qt.qt6.632.addons.qtserialport.android_x86_64 
+qt.qt6.650.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.643.debug_info.win64_mingw 
+qt.qt6.650.addons.qtpositioning.win64_mingw 
+qt.qt6.632.qtquick3d.android_arm64_v8a 
+qt.qt6.624.addons.qtserialbus.android_x86_64 
+qt.qt6.650.addons.qtwebsockets.wasm_singlethread 
+qt.qt5.5152.qtquicktimeline.android
+[66382] Installation space required: "220.27 GB" Temporary space required: "36.23 GB" Local repository size: "0.00 bytes"
+[66384] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "6.71 GB" Install volume mount point: "D:\\" Free space available: "47.15 GB"
+[81253] Selected components without dependencies:
+qtdesignstudio 
+qt 
+qt.tools.maintenance 
+Components added as dependency for "qt.tools.qtdesignstudio":
+qt.tools.vcredist_msvc2019_x64 
+qt.license.gplv3except 
+Components that have resolved dependencies:
+qt.tools.qtdesignstudio 
+Components added as dependency for "qt.tools":
+qt.license.thirdparty 
+qt.license.lgpl 
+Components that have resolved dependencies:
+qt.tools 
+Components added as dependency for "qt.tools.qtcreator":
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_64 
+Components added as dependency for "qt.tools.qtcreator_gui":
+qt.tools.qtcreator 
+Components that have resolved dependencies:
+qt.tools.qtcreator_gui 
+Components added as dependency for "qt.tools.qtcreatorcdbext":
+qt.license.python 
+Components that have resolved dependencies:
+qt.tools.qtcreatorcdbext 
+Components added as dependency for "qt.tools.windows_kits_debuggers":
+qt.license.win10sdk 
+Components that have resolved dependencies:
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+Components added as automatic dependencies:
+qt.tools.qtcreator_gui.telemetry
+[81255] Installation space required: "2.43 GB" Temporary space required: "1.03 GB" Local repository size: "0.00 bytes"
+[81257] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "6.71 GB" Install volume mount point: "D:\\" Free space available: "47.15 GB"
+[83041] Saving uuid for: "zwalid327@gmail.com"
+[83044] backup  operation: Mkdir
+[83044] 	- arguments: D:/
+[83044] Done
+[83045] perform  operation: Mkdir
+[83045] 	- arguments: D:/
+[83045] Done
+[83046] Starting elevated process "D:\\zvwda\\qt-unified-windows-x64-4.5.2-online.exe" with arguments " --start-server PRODUCTION,{f8ad4fe8-2210-4f7f-846b-5d336c3a50f7},{de95bc1c-7c6f-493a-bd24-3416e1ba99fc}"
+[86421] Finished starting elevated process.
+[86532] perform  operation: Mkdir
+[86532] 	- arguments: D:/
+[86535] Done
+[86536] installationError : Error : Cannot create directory "D:\": Unknown error.
+[91428] ROLLING BACK operations= 0
+[91429] Installation aborted!
